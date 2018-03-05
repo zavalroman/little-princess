@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UndoHistory>
+  <UndoTransaction tv-sec="1520271938" tv-usec="956110" name="delete MIDI">
+    <NoteDiffCommand midi-source="23465">
+      <ChangedNotes/>
+      <AddedNotes/>
+      <RemovedNotes>
+        <note id="474164" note="45" channel="0" time="158.5" length="0.42395833333333144" velocity="60"/>
+        <note id="474163" note="33" channel="0" time="158.5" length="0.42395833333333144" velocity="60"/>
+        <note id="474159" note="45" channel="0" time="158" length="0.42395833333333144" velocity="60"/>
+        <note id="474139" note="33" channel="0" time="154" length="0.42395833333333144" velocity="60"/>
+        <note id="474133" note="33" channel="0" time="152" length="0.42395833333333144" velocity="60"/>
+        <note id="474170" note="47" channel="0" time="160" length="0.42395833333333144" velocity="60"/>
+        <note id="474114" note="49" channel="0" time="149" length="0.42395833333333144" velocity="60"/>
+        <note id="474176" note="35" channel="0" time="162" length="0.42395833333333144" velocity="60"/>
+        <note id="474175" note="47" channel="0" time="162" length="0.42395833333333144" velocity="60"/>
+        <note id="474115" note="37" channel="0" time="149" length="0.42395833333333144" velocity="60"/>
+        <note id="474120" note="37" channel="0" time="150" length="0.42395833333333144" velocity="60"/>
+        <note id="474138" note="45" channel="0" time="154" length="0.42395833333333144" velocity="60"/>
+        <note id="474126" note="49" channel="0" time="150.5" length="0.42395833333333144" velocity="60"/>
+        <note id="474147" note="45" channel="0" time="156" length="0.42395833333333144" velocity="60"/>
+        <note id="474144" note="33" channel="0" time="154.5" length="0.42395833333333144" velocity="60"/>
+        <note id="474143" note="45" channel="0" time="154.5" length="0.42395833333333144" velocity="60"/>
+        <note id="474171" note="35" channel="0" time="160" length="0.42395833333333144" velocity="60"/>
+        <note id="474152" note="45" channel="0" time="157" length="0.42395833333333144" velocity="60"/>
+        <note id="474158" note="33" channel="0" time="158" length="0.42395833333333144" velocity="60"/>
+        <note id="474148" note="33" channel="0" time="156" length="0.42395833333333144" velocity="60"/>
+        <note id="474121" note="49" channel="0" time="150" length="0.42395833333333144" velocity="60"/>
+        <note id="474153" note="33" channel="0" time="157" length="0.42395833333333144" velocity="60"/>
+        <note id="474132" note="45" channel="0" time="152" length="0.42395833333333144" velocity="60"/>
+        <note id="474125" note="37" channel="0" time="150.5" length="0.42395833333333144" velocity="60"/>
+      </RemovedNotes>
+    </NoteDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="336" left-frame="13988048" y-origin="1435">
+        <Selection>
+          <MIDINotes region-id="23497">
+            <note note-id="474132"/>
+            <note note-id="474148"/>
+            <note note-id="474126"/>
+            <note note-id="474138"/>
+            <note note-id="474175"/>
+            <note note-id="474159"/>
+            <note note-id="474176"/>
+            <note note-id="474120"/>
+            <note note-id="474158"/>
+            <note note-id="474114"/>
+            <note note-id="474133"/>
+            <note note-id="474125"/>
+            <note note-id="474144"/>
+            <note note-id="474147"/>
+            <note note-id="474153"/>
+            <note note-id="474152"/>
+            <note note-id="474163"/>
+            <note note-id="474139"/>
+            <note note-id="474171"/>
+            <note note-id="474115"/>
+            <note note-id="474143"/>
+            <note note-id="474121"/>
+            <note note-id="474170"/>
+            <note note-id="474164"/>
+          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="336" left-frame="13988048" y-origin="1435">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1520271943" tv-usec="163197" name="delete MIDI">
+    <NoteDiffCommand midi-source="23465">
+      <ChangedNotes/>
+      <AddedNotes/>
+      <RemovedNotes>
+        <note id="474186" note="47" channel="0" time="164" length="0.42395833333333144" velocity="60"/>
+        <note id="474179" note="47" channel="0" time="162.5" length="0.42395833333333144" velocity="60"/>
+        <note id="474180" note="35" channel="0" time="162.5" length="0.42395833333333144" velocity="60"/>
+        <note id="474194" note="35" channel="0" time="165" length="0.42395833333333144" velocity="60"/>
+        <note id="474193" note="47" channel="0" time="165" length="0.42395833333333144" velocity="60"/>
+        <note id="474204" note="35" channel="0" time="166.5" length="0.42395833333333144" velocity="60"/>
+        <note id="474199" note="35" channel="0" time="166" length="0.42395833333333144" velocity="60"/>
+        <note id="474220" note="30" channel="0" time="170.5" length="0.42395833333333144" velocity="60"/>
+        <note id="474211" note="42" channel="0" time="168" length="0.42395833333333144" velocity="60"/>
+        <note id="474216" note="30" channel="0" time="170" length="0.42395833333333144" velocity="60"/>
+        <note id="474219" note="42" channel="0" time="170.5" length="0.42395833333333144" velocity="60"/>
+        <note id="474212" note="30" channel="0" time="168" length="0.42395833333333144" velocity="60"/>
+        <note id="474227" note="44" channel="0" time="173" length="0.42395833333333144" velocity="60"/>
+        <note id="474224" note="32" channel="0" time="172" length="0.42395833333333144" velocity="60"/>
+        <note id="474235" note="32" channel="0" time="174.5" length="0.42395833333333144" velocity="60"/>
+        <note id="474232" note="44" channel="0" time="174" length="0.42395833333333144" velocity="60"/>
+        <note id="474231" note="32" channel="0" time="174" length="0.42395833333333144" velocity="60"/>
+        <note id="474205" note="47" channel="0" time="166.5" length="0.42395833333333144" velocity="60"/>
+        <note id="474228" note="32" channel="0" time="173" length="0.42395833333333144" velocity="60"/>
+        <note id="474187" note="35" channel="0" time="164" length="0.42395833333333144" velocity="60"/>
+        <note id="474223" note="44" channel="0" time="172" length="0.42395833333333144" velocity="60"/>
+        <note id="474215" note="42" channel="0" time="170" length="0.42395833333333144" velocity="60"/>
+        <note id="474236" note="44" channel="0" time="174.5" length="0.42395833333333144" velocity="60"/>
+        <note id="474200" note="47" channel="0" time="166" length="0.42395833333333144" velocity="60"/>
+      </RemovedNotes>
+    </NoteDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="336" left-frame="14239191" y-origin="1435">
+        <Selection>
+          <MIDINotes region-id="23497">
+            <note note-id="474235"/>
+            <note note-id="474215"/>
+            <note note-id="474223"/>
+            <note note-id="474211"/>
+            <note note-id="474187"/>
+            <note note-id="474193"/>
+            <note note-id="474219"/>
+            <note note-id="474227"/>
+            <note note-id="474199"/>
+            <note note-id="474179"/>
+            <note note-id="474205"/>
+            <note note-id="474204"/>
+            <note note-id="474231"/>
+            <note note-id="474186"/>
+            <note note-id="474180"/>
+            <note note-id="474220"/>
+            <note note-id="474212"/>
+            <note note-id="474232"/>
+            <note note-id="474194"/>
+            <note note-id="474224"/>
+            <note note-id="474216"/>
+            <note note-id="474236"/>
+            <note note-id="474228"/>
+            <note note-id="474200"/>
+          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="336" left-frame="14239191" y-origin="1435">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1520271981" tv-usec="898751" name="insert file">
+    <StatefulDiffCommand obj-id="23630" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="23802"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="23630" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="23807"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="2688" left-frame="12746315" y-origin="1435">
+        <Selection>
+          <StripableView id="23577"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="2688" left-frame="12746315" y-origin="1435">
+        <Selection>
+          <StripableView id="23577"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1520272011" tv-usec="742175" name="split">
+    <StatefulDiffCommand obj-id="23630" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="23814"/>
+          <Add id="23817"/>
+          <Remove id="23802"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseCut" zoom="42" left-frame="19659904" y-origin="1672">
+        <Selection/>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseCut" zoom="42" left-frame="19659904" y-origin="1672">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1520272023" tv-usec="50751" name="split">
+    <StatefulDiffCommand obj-id="23630" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="23833"/>
+          <Add id="23836"/>
+          <Remove id="23817"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseCut" zoom="10" left-frame="20530995" y-origin="1672">
+        <Selection/>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseCut" zoom="10" left-frame="20530995" y-origin="1672">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1520272028" tv-usec="246610" name="delete objects">
+    <StatefulDiffCommand obj-id="23833" type-name="ARDOUR::MidiRegion">
+      <Changes>
+        <layering-index from="1" to="0"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="23836" type-name="ARDOUR::MidiRegion">
+      <Changes>
+        <layering-index from="2" to="1"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="23807" type-name="ARDOUR::MidiRegion">
+      <Changes>
+        <layering-index from="3" to="2"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="23630" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Remove id="23814"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="5120" left-frame="17023145" y-origin="1672">
+        <Selection>
+          <Regions>
+            <Region id="23814"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="5120" left-frame="17023145" y-origin="1672">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1520272032" tv-usec="84907" name="delete objects">
+    <StatefulDiffCommand obj-id="23807" type-name="ARDOUR::MidiRegion">
+      <Changes>
+        <layering-index from="2" to="1"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="23630" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Remove id="23836"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="4372" left-frame="19722935" y-origin="1672">
+        <Selection>
+          <Regions>
+            <Region id="23836"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="4372" left-frame="19722935" y-origin="1672">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1520272037" tv-usec="104654" name="delete objects">
+    <StatefulDiffCommand obj-id="23630" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Remove id="23807"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="4372" left-frame="20696115" y-origin="1672">
+        <Selection>
+          <Regions>
+            <Region id="23807"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="4372" left-frame="20696115" y-origin="1672">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1520272051" tv-usec="140904" name="delete MIDI">
+    <NoteDiffCommand midi-source="23791">
+      <ChangedNotes/>
+      <AddedNotes/>
+      <RemovedNotes>
+        <note id="494128" note="35" channel="0" time="432" length="0.42395833333335986" velocity="60"/>
+        <note id="494003" note="35" channel="0" time="406" length="0.42395833333335986" velocity="60"/>
+        <note id="494118" note="34" channel="0" time="430" length="0.42395833333335986" velocity="60"/>
+        <note id="494115" note="34" channel="0" time="429" length="0.42395833333335986" velocity="60"/>
+        <note id="494122" note="34" channel="0" time="430.5" length="0.42395833333335986" velocity="60"/>
+        <note id="494058" note="45" channel="0" time="418" length="0.42395833333335986" velocity="60"/>
+        <note id="493993" note="35" channel="0" time="404" length="0.42395833333335986" velocity="60"/>
+        <note id="494088" note="45" channel="0" time="422.5" length="0.42395833333335986" velocity="60"/>
+        <note id="494027" note="31" channel="0" time="410.5" length="0.42395833333335986" velocity="60"/>
+        <note id="494119" note="46" channel="0" time="430" length="0.42395833333335986" velocity="60"/>
+        <note id="494127" note="47" channel="0" time="432" length="0.42395833333335986" velocity="60"/>
+        <note id="494087" note="33" channel="0" time="422.5" length="0.42395833333335986" velocity="60"/>
+        <note id="494015" note="43" channel="0" time="408" length="0.42395833333335986" velocity="60"/>
+        <note id="494022" note="31" channel="0" time="410" length="0.42395833333335986" velocity="60"/>
+        <note id="494016" note="31" channel="0" time="408" length="0.42395833333335986" velocity="60"/>
+        <note id="494062" note="45" channel="0" time="418.5" length="0.42395833333335986" velocity="60"/>
+        <note id="494083" note="45" channel="0" time="422" length="0.42395833333335986" velocity="60"/>
+        <note id="494021" note="43" channel="0" time="410" length="0.42395833333335986" velocity="60"/>
+        <note id="494077" note="33" channel="0" time="421" length="0.42395833333335986" velocity="60"/>
+        <note id="494094" note="46" channel="0" time="424" length="0.42395833333335986" velocity="60"/>
+        <note id="494082" note="33" channel="0" time="422" length="0.42395833333335986" velocity="60"/>
+        <note id="494185" note="43" channel="0" time="445" length="0.42395833333335986" velocity="60"/>
+        <note id="494109" note="34" channel="0" time="428" length="0.42395833333335986" velocity="60"/>
+        <note id="494181" note="31" channel="0" time="444" length="0.42395833333335986" velocity="60"/>
+        <note id="494180" note="43" channel="0" time="444" length="0.42395833333335986" velocity="60"/>
+        <note id="494053" note="45" channel="0" time="416" length="0.42395833333335986" velocity="60"/>
+        <note id="494047" note="43" channel="0" time="414.5" length="0.42395833333335986" velocity="60"/>
+        <note id="494076" note="45" channel="0" time="421" length="0.42395833333335986" velocity="60"/>
+        <note id="493992" note="47" channel="0" time="404" length="0.42395833333335986" velocity="60"/>
+        <note id="494203" note="45" channel="0" time="448" length="0.42395833333335986" velocity="60"/>
+        <note id="494192" note="43" channel="0" time="446" length="0.42395833333335986" velocity="60"/>
+        <note id="494226" note="45" channel="0" time="453" length="0.42395833333335986" velocity="60"/>
+        <note id="494197" note="43" channel="0" time="446.5" length="0.42395833333335986" velocity="60"/>
+        <note id="494191" note="31" channel="0" time="446" length="0.42395833333335986" velocity="60"/>
+        <note id="494070" note="33" channel="0" time="420" length="0.42395833333335986" velocity="60"/>
+        <note id="494069" note="45" channel="0" time="420" length="0.42395833333335986" velocity="60"/>
+        <note id="494008" note="35" channel="0" time="406.5" length="0.42395833333335986" velocity="60"/>
+        <note id="494009" note="47" channel="0" time="406.5" length="0.42395833333335986" velocity="60"/>
+        <note id="494063" note="33" channel="0" time="418.5" length="0.42395833333335986" velocity="60"/>
+        <note id="494102" note="46" channel="0" time="426.5" length="0.42395833333335986" velocity="60"/>
+        <note id="494054" note="33" channel="0" time="416" length="0.42395833333335986" velocity="60"/>
+        <note id="494042" note="43" channel="0" time="414" length="0.42395833333335986" velocity="60"/>
+        <note id="494176" note="43" channel="0" time="442.5" length="0.42395833333335986" velocity="60"/>
+        <note id="494166" note="31" channel="0" time="440" length="0.42395833333335986" velocity="60"/>
+        <note id="494165" note="43" channel="0" time="440" length="0.42395833333335986" velocity="60"/>
+        <note id="494238" note="45" channel="0" time="454.5" length="0.42395833333335986" velocity="60"/>
+        <note id="494237" note="33" channel="0" time="454.5" length="0.42395833333335986" velocity="60"/>
+        <note id="494099" note="34" channel="0" time="426" length="0.42395833333335986" velocity="60"/>
+        <note id="494227" note="33" channel="0" time="453" length="0.42395833333335986" velocity="60"/>
+        <note id="494220" note="33" channel="0" time="452" length="0.42395833333335986" velocity="60"/>
+        <note id="494098" note="46" channel="0" time="426" length="0.42395833333335986" velocity="60"/>
+        <note id="494233" note="45" channel="0" time="454" length="0.42395833333335986" velocity="60"/>
+        <note id="494232" note="33" channel="0" time="454" length="0.42395833333335986" velocity="60"/>
+        <note id="494177" note="31" channel="0" time="442.5" length="0.42395833333335986" velocity="60"/>
+        <note id="494158" note="35" channel="0" time="438.5" length="0.42395833333335986" velocity="60"/>
+        <note id="493997" note="47" channel="0" time="405" length="0.42395833333335986" velocity="60"/>
+        <note id="494159" note="47" channel="0" time="438.5" length="0.42395833333335986" velocity="60"/>
+        <note id="494171" note="43" channel="0" time="442" length="0.42395833333335986" velocity="60"/>
+        <note id="494139" note="35" channel="0" time="434.5" length="0.42395833333335986" velocity="60"/>
+        <note id="494103" note="34" channel="0" time="426.5" length="0.42395833333335986" velocity="60"/>
+        <note id="494154" note="47" channel="0" time="438" length="0.42395833333335986" velocity="60"/>
+        <note id="494031" note="31" channel="0" time="412" length="0.42395833333335986" velocity="60"/>
+        <note id="494142" note="47" channel="0" time="436" length="0.42395833333335986" velocity="60"/>
+        <note id="494147" note="47" channel="0" time="437" length="0.42395833333335986" velocity="60"/>
+        <note id="494143" note="35" channel="0" time="436" length="0.42395833333335986" velocity="60"/>
+        <note id="494046" note="31" channel="0" time="414.5" length="0.42395833333335986" velocity="60"/>
+        <note id="494148" note="35" channel="0" time="437" length="0.42395833333335986" velocity="60"/>
+        <note id="494030" note="43" channel="0" time="412" length="0.42395833333335986" velocity="60"/>
+        <note id="494153" note="35" channel="0" time="438" length="0.42395833333335986" velocity="60"/>
+        <note id="494209" note="33" channel="0" time="450" length="0.42395833333335986" velocity="60"/>
+        <note id="494041" note="31" channel="0" time="414" length="0.42395833333335986" velocity="60"/>
+        <note id="494172" note="31" channel="0" time="442" length="0.42395833333335986" velocity="60"/>
+        <note id="494108" note="46" channel="0" time="428" length="0.42395833333335986" velocity="60"/>
+        <note id="494186" note="31" channel="0" time="445" length="0.42395833333335986" velocity="60"/>
+        <note id="494208" note="45" channel="0" time="450" length="0.42395833333335986" velocity="60"/>
+        <note id="494035" note="43" channel="0" time="413" length="0.42395833333335986" velocity="60"/>
+        <note id="494133" note="47" channel="0" time="434" length="0.42395833333335986" velocity="60"/>
+        <note id="494134" note="35" channel="0" time="434" length="0.42395833333335986" velocity="60"/>
+        <note id="494004" note="47" channel="0" time="406" length="0.42395833333335986" velocity="60"/>
+        <note id="494138" note="47" channel="0" time="434.5" length="0.42395833333335986" velocity="60"/>
+        <note id="494123" note="46" channel="0" time="430.5" length="0.42395833333335986" velocity="60"/>
+        <note id="494114" note="46" channel="0" time="429" length="0.42395833333335986" velocity="60"/>
+        <note id="494036" note="31" channel="0" time="413" length="0.42395833333335986" velocity="60"/>
+        <note id="494059" note="33" channel="0" time="418" length="0.42395833333335986" velocity="60"/>
+        <note id="494026" note="43" channel="0" time="410.5" length="0.42395833333335986" velocity="60"/>
+        <note id="493998" note="35" channel="0" time="405" length="0.42395833333335986" velocity="60"/>
+        <note id="494213" note="33" channel="0" time="450.5" length="0.42395833333335986" velocity="60"/>
+        <note id="494204" note="33" channel="0" time="448" length="0.42395833333335986" velocity="60"/>
+        <note id="494095" note="34" channel="0" time="424" length="0.42395833333335986" velocity="60"/>
+        <note id="494219" note="45" channel="0" time="452" length="0.42395833333335986" velocity="60"/>
+        <note id="494212" note="45" channel="0" time="450.5" length="0.42395833333335986" velocity="60"/>
+        <note id="494196" note="31" channel="0" time="446.5" length="0.42395833333335986" velocity="60"/>
+      </RemovedNotes>
+    </NoteDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="1093" left-frame="19916682" y-origin="1672">
+        <Selection>
+          <MIDINotes region-id="23833">
+            <note note-id="494035"/>
+            <note note-id="494082"/>
+            <note note-id="494154"/>
+            <note note-id="493992"/>
+            <note note-id="494087"/>
+            <note note-id="494208"/>
+            <note note-id="494054"/>
+            <note note-id="493998"/>
+            <note note-id="494118"/>
+            <note note-id="494069"/>
+            <note note-id="494172"/>
+            <note note-id="494134"/>
+            <note note-id="494046"/>
+            <note note-id="494053"/>
+            <note note-id="494108"/>
+            <note note-id="494047"/>
+            <note note-id="494114"/>
+            <note note-id="493997"/>
+            <note note-id="494076"/>
+            <note note-id="494036"/>
+            <note note-id="494109"/>
+            <note note-id="494115"/>
+            <note note-id="494027"/>
+            <note note-id="494185"/>
+            <note note-id="494219"/>
+            <note note-id="494203"/>
+            <note note-id="494128"/>
+            <note note-id="494004"/>
+            <note note-id="494094"/>
+            <note note-id="494227"/>
+            <note note-id="494021"/>
+            <note note-id="494058"/>
+            <note note-id="494123"/>
+            <note note-id="494181"/>
+            <note note-id="494059"/>
+            <note note-id="494238"/>
+            <note note-id="494041"/>
+            <note note-id="494015"/>
+            <note note-id="494063"/>
+            <note note-id="494159"/>
+            <note note-id="494220"/>
+            <note note-id="494099"/>
+            <note note-id="494204"/>
+            <note note-id="494070"/>
+            <note note-id="494031"/>
+            <note note-id="493993"/>
+            <note note-id="494143"/>
+            <note note-id="494166"/>
+            <note note-id="494083"/>
+            <note note-id="494022"/>
+            <note note-id="494133"/>
+            <note note-id="494237"/>
+            <note note-id="494212"/>
+            <note note-id="494095"/>
+            <note note-id="494147"/>
+            <note note-id="494077"/>
+            <note note-id="494177"/>
+            <note note-id="494003"/>
+            <note note-id="494062"/>
+            <note note-id="494171"/>
+            <note note-id="494153"/>
+            <note note-id="494008"/>
+            <note note-id="494226"/>
+            <note note-id="494213"/>
+            <note note-id="494122"/>
+            <note note-id="494098"/>
+            <note note-id="494042"/>
+            <note note-id="494009"/>
+            <note note-id="494016"/>
+            <note note-id="494148"/>
+            <note note-id="494119"/>
+            <note note-id="494186"/>
+            <note note-id="494088"/>
+            <note note-id="494102"/>
+            <note note-id="494232"/>
+            <note note-id="494165"/>
+            <note note-id="494191"/>
+            <note note-id="494158"/>
+            <note note-id="494176"/>
+            <note note-id="494196"/>
+            <note note-id="494138"/>
+            <note note-id="494197"/>
+            <note note-id="494209"/>
+            <note note-id="494142"/>
+            <note note-id="494030"/>
+            <note note-id="494103"/>
+            <note note-id="494139"/>
+            <note note-id="494026"/>
+            <note note-id="494180"/>
+            <note note-id="494127"/>
+            <note note-id="494192"/>
+            <note note-id="494233"/>
+          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="1093" left-frame="19916682" y-origin="1672">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1520272055" tv-usec="548398" name="delete MIDI">
+    <NoteDiffCommand midi-source="23791">
+      <ChangedNotes/>
+      <AddedNotes/>
+      <RemovedNotes>
+        <note id="493984" note="35" channel="0" time="402" length="0.42395833333335986" velocity="60"/>
+        <note id="493989" note="35" channel="0" time="402.5" length="0.42395833333335986" velocity="60"/>
+        <note id="493977" note="47" channel="0" time="400" length="0.42395833333335986" velocity="60"/>
+        <note id="493978" note="35" channel="0" time="400" length="0.42395833333335986" velocity="60"/>
+        <note id="493988" note="47" channel="0" time="402.5" length="0.42395833333335986" velocity="60"/>
+        <note id="493983" note="47" channel="0" time="402" length="0.42395833333335986" velocity="60"/>
+      </RemovedNotes>
+    </NoteDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseContent" zoom="1093" left-frame="19037679" y-origin="1672">
+        <Selection>
+          <MIDINotes region-id="23833">
+            <note note-id="493988"/>
+            <note note-id="493983"/>
+            <note note-id="493978"/>
+            <note note-id="493989"/>
+            <note note-id="493984"/>
+            <note note-id="493977"/>
+          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseContent" zoom="1093" left-frame="19037679" y-origin="1672">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1520272068" tv-usec="491518" name="region copy">
+    <StatefulDiffCommand obj-id="23630" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="23865"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="4372" left-frame="17423474" y-origin="1435">
+        <Selection>
+          <Regions>
+            <Region id="23833"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="4372" left-frame="17423474" y-origin="1435">
+        <Selection>
+          <Regions>
+            <Region id="23865"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1520272074" tv-usec="583192" name="region drag">
+    <StatefulDiffCommand obj-id="23865" type-name="ARDOUR::MidiRegion">
+      <Changes>
+        <position from="17731046" to="13538299"/>
+        <beat from="1139.1828495842781" to="869.80756991685564"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="4372" left-frame="14566717" y-origin="1435">
+        <Selection>
+          <Regions>
+            <Region id="23865"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="4372" left-frame="10959817" y-origin="1435">
+        <Selection>
+          <Regions>
+            <Region id="23865"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1520272085" tv-usec="517479" name="region drag">
+    <StatefulDiffCommand obj-id="23865" type-name="ARDOUR::MidiRegion">
+      <Changes>
+        <position from="13538299" to="13503323"/>
+        <beat from="869.80756991685564" to="867.56043461829177"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="4372" left-frame="12309712" y-origin="1672">
+        <Selection>
+          <Regions>
+            <Region id="23865"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="4372" left-frame="12309712" y-origin="1672">
+        <Selection>
+          <Regions>
+            <Region id="23865"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1520272093" tv-usec="651413" name="region drag">
+    <StatefulDiffCommand obj-id="23865" type-name="ARDOUR::MidiRegion">
+      <Changes>
+        <position from="13503323" to="13537721"/>
+        <beat from="867.56043461829177" to="869.7704346182918"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="273" left-frame="13492976" y-origin="1672">
+        <Selection>
+          <Regions>
+            <Region id="23865"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="273" left-frame="13492976" y-origin="1672">
+        <Selection>
+          <Regions>
+            <Region id="23865"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1520272096" tv-usec="470274" name="region drag">
+    <StatefulDiffCommand obj-id="23865" type-name="ARDOUR::MidiRegion">
+      <Changes>
+        <position from="13537721" to="13516973"/>
+        <beat from="869.7704346182918" to="868.43741874527586"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="273" left-frame="13492976" y-origin="1435">
+        <Selection>
+          <Regions>
+            <Region id="23865"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="273" left-frame="13492976" y-origin="1435">
+        <Selection>
+          <Regions>
+            <Region id="23865"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1520272100" tv-usec="642934" name="region drag">
+    <StatefulDiffCommand obj-id="23865" type-name="ARDOUR::MidiRegion">
+      <Changes>
+        <position from="13516973" to="13519976"/>
+        <beat from="868.43741874527586" to="868.63035525321231"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="273" left-frame="13492976" y-origin="1672">
+        <Selection>
+          <Regions>
+            <Region id="23865"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="273" left-frame="13492976" y-origin="1672">
+        <Selection>
+          <Regions>
+            <Region id="23865"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1520272109" tv-usec="269776" name="region drag">
+    <StatefulDiffCommand obj-id="23865" type-name="ARDOUR::MidiRegion">
+      <Changes>
+        <position from="13519976" to="13521302"/>
+        <beat from="868.63035525321231" to="868.71554799697651"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="34" left-frame="13510309" y-origin="1672">
+        <Selection>
+          <Regions>
+            <Region id="23865"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="34" left-frame="13510309" y-origin="1672">
+        <Selection>
+          <Regions>
+            <Region id="23865"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1520272112" tv-usec="91043" name="region drag">
+    <StatefulDiffCommand obj-id="23497" type-name="ARDOUR::MidiRegion">
+      <Changes>
+        <position from="13518381" to="13517973"/>
+        <beat from="868.5278798185941" to="868.50166666666667"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="34" left-frame="13510309" y-origin="1435">
+        <Selection>
+          <Regions>
+            <Region id="23497"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="34" left-frame="13510309" y-origin="1435">
+        <Selection>
+          <Regions>
+            <Region id="23497"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1520272132" tv-usec="421930" name="region drag">
+    <StatefulDiffCommand obj-id="23865" type-name="ARDOUR::MidiRegion">
+      <Changes>
+        <position from="13521302" to="13525654"/>
+        <beat from="868.71554799697651" to="868.99515495086916"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="4352" left-frame="11833837" y-origin="1672">
+        <Selection>
+          <Regions>
+            <Region id="23865"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="4352" left-frame="11833837" y-origin="1672">
+        <Selection>
+          <Regions>
+            <Region id="23865"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1520272133" tv-usec="135983" name="delete objects">
+    <StatefulDiffCommand obj-id="23630" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Remove id="23865"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="4352" left-frame="11833837" y-origin="1672">
+        <Selection>
+          <Regions>
+            <Region id="23865"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="4352" left-frame="11833837" y-origin="1672">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+</UndoHistory>
