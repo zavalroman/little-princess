@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="little-princess" sample-rate="44100" end-is-free="1" id-counter="23906" name-counter="1" event-counter="513776" vca-counter="1">
+<Session version="3002" name="little-princess" sample-rate="44100" end-is-free="1" id-counter="30047" name-counter="1" event-counter="815638" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 5.12"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -93,6 +93,26 @@
     <Source name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-10.mid" type="midi" flags="Writable" id="23467" origin=""/>
     <Source name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-11.mid" type="midi" flags="Writable" id="23791" origin=""/>
     <Source name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-11.mid" type="midi" flags="Writable" id="23793" origin=""/>
+    <Source name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-12.mid" type="midi" flags="Writable" id="26629" origin=""/>
+    <Source name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-12.mid" type="midi" flags="Writable" id="26631" origin=""/>
+    <Source name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-13.mid" type="midi" flags="Writable" id="26949" origin=""/>
+    <Source name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-13.mid" type="midi" flags="Writable" id="26951" origin=""/>
+    <Source name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-14.mid" type="midi" flags="Writable" id="27271" origin=""/>
+    <Source name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-14.mid" type="midi" flags="Writable" id="27273" origin=""/>
+    <Source name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-15.mid" type="midi" flags="Writable" id="27639" origin=""/>
+    <Source name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-15.mid" type="midi" flags="Writable" id="27641" origin=""/>
+    <Source name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-16.mid" type="midi" flags="Writable" id="27992" origin=""/>
+    <Source name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-16.mid" type="midi" flags="Writable" id="27994" origin=""/>
+    <Source name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-17.mid" type="midi" flags="Writable" id="28363" origin=""/>
+    <Source name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-17.mid" type="midi" flags="Writable" id="28365" origin=""/>
+    <Source name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-18.mid" type="midi" flags="Writable" id="28738" origin=""/>
+    <Source name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-18.mid" type="midi" flags="Writable" id="28740" origin=""/>
+    <Source name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-19.mid" type="midi" flags="Writable" id="29119" origin=""/>
+    <Source name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-19.mid" type="midi" flags="Writable" id="29121" origin=""/>
+    <Source name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-20.mid" type="midi" flags="Writable" id="29503" origin=""/>
+    <Source name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-20.mid" type="midi" flags="Writable" id="29505" origin=""/>
+    <Source name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-21.mid" type="midi" flags="Writable" id="29901" origin=""/>
+    <Source name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-21.mid" type="midi" flags="Writable" id="29903" origin=""/>
   </Sources>
   <Regions>
     <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="13382673" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="606.92394557823127" id="20932" type="midi" first-edit="nothing" source-0="20928" master-source-0="20928"/>
@@ -169,9 +189,83 @@
     <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-11.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="7096086" length="2350507" position="20538593" beat="1319.5619085411943" sync-position="7096086" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="455.90877551020412" length-beats="151.01518896447465" id="23826" type="midi" first-edit="nothing" source-0="23791" master-source-0="23791"/>
     <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-11.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="7096888" length="2349705" position="20539395" beat="1319.6134353741495" sync-position="7096888" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="455.96030234315936" length-beats="150.96366213151941" id="23836" type="midi" first-edit="nothing" source-0="23791" master-source-0="23791"/>
     <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-11.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="6225335" length="871553" position="13525654" beat="868.99515495086916" sync-position="6225335" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="399.96483371126237" length-beats="55.995468631896983" id="23865" type="midi" first-edit="nothing" source-0="23791" master-source-0="23791"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9446593" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="606.92396447467877" id="26633" type="midi" first-edit="nothing" source-0="26629" master-source-0="26629"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9209539" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="591.6937377173092" id="26636" type="midi" first-edit="nothing" source-0="26631" master-source-0="26631"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9446593" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="606.92396447467877" id="26640" type="midi" first-edit="nothing" source-0="26629" master-source-0="26629"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9209539" position="14047009" beat="902.4911300075587" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="0" length-beats="591.6937377173092" id="26645" type="midi" first-edit="nothing" source-0="26631" master-source-0="26631"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-12.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9089263" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="583.96625472411188" id="26656" type="midi" first-edit="nothing" source-0="26629" master-source-0="26629"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9446593" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="606.92396447467877" id="26953" type="midi" first-edit="nothing" source-0="26949" master-source-0="26949"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9209539" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="591.6937377173092" id="26956" type="midi" first-edit="nothing" source-0="26951" master-source-0="26951"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9446593" position="7557140" beat="485.53053665910807" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="606.92396447467877" id="26960" type="midi" first-edit="nothing" source-0="26949" master-source-0="26949"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9209539" position="17803764" beat="1143.8548299319727" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="591.6937377173092" id="26965" type="midi" first-edit="nothing" source-0="26951" master-source-0="26951"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-13.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="1735470" length="7474069" position="19539234" beat="1255.3551700680273" sync-position="1735470" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="111.50034013605455" length-beats="480.19339758125466" id="26983" type="midi" first-edit="nothing" source-0="26951" master-source-0="26951"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9446593" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="606.92396447467877" id="27275" type="midi" first-edit="nothing" source-0="27271" master-source-0="27271"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9209539" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="591.6937377173092" id="27278" type="midi" first-edit="nothing" source-0="27273" master-source-0="27273"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9446593" position="7192902" beat="462.1290022675737" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="606.92396447467877" id="27282" type="midi" first-edit="nothing" source-0="27271" master-source-0="27271"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9209539" position="16639495" beat="1069.0529667422525" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="591.6937377173092" id="27287" type="midi" first-edit="nothing" source-0="27273" master-source-0="27273"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-14.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1730289" position="16639495" beat="1069.0529667422525" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="111.16747165532888" id="27298" type="midi" first-edit="nothing" source-0="27273" master-source-0="27273"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-14.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="1730289" length="7479250" position="18369784" beat="1180.2204383975813" sync-position="1730289" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="111.16747165532888" length-beats="480.52626606198032" id="27301" type="midi" first-edit="nothing" source-0="27273" master-source-0="27273"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-14.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="1730289" length="865728" position="18369784" beat="1180.2204383975813" sync-position="1730289" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="111.16747165532888" length-beats="55.62122448979585" id="27307" type="midi" first-edit="nothing" source-0="27273" master-source-0="27273"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-14.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="2596017" length="6613522" position="19235512" beat="1235.8416628873772" sync-position="2596017" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="166.78869614512473" length-beats="424.90504157218447" id="27310" type="midi" first-edit="nothing" source-0="27273" master-source-0="27273"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-14.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="1730289" length="865728" position="18369784" beat="1180.2204383975813" sync-position="1730289" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="111.16747165532888" length-beats="55.62122448979585" id="27317" type="midi" first-edit="nothing" source-0="27273" master-source-0="27273"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-14.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="2596017" length="6613522" position="19235512" beat="1235.8416628873772" sync-position="2596017" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="2" start-beats="166.78869614512473" length-beats="424.90504157218447" id="27320" type="midi" first-edit="nothing" source-0="27273" master-source-0="27273"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-14.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="2604745" length="6604794" position="19244240" beat="1236.4024187452758" sync-position="2604745" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="167.34945200302332" length-beats="424.34428571428589" id="27330" type="midi" first-edit="nothing" source-0="27273" master-source-0="27273"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9446593" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="606.92396447467877" id="27643" type="midi" first-edit="nothing" source-0="27639" master-source-0="27639"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9209539" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="591.6937377173092" id="27646" type="midi" first-edit="nothing" source-0="27641" master-source-0="27641"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9446593" position="7053541" beat="453.17534769463339" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="606.92396447467877" id="27650" type="midi" first-edit="nothing" source-0="27639" master-source-0="27639"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9209539" position="2460550" beat="158.08522297808011" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="591.6937377173092" id="27655" type="midi" first-edit="nothing" source-0="27641" master-source-0="27641"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-15.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2603274" position="2460550" beat="158.08522297808011" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="167.25494331065758" id="27670" type="midi" first-edit="nothing" source-0="27641" master-source-0="27641"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-15.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="2603274" length="6606265" position="5063824" beat="325.34016628873769" sync-position="2603274" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="167.25494331065758" length-beats="424.4387944066516" id="27673" type="midi" first-edit="nothing" source-0="27641" master-source-0="27641"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-15.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="2953824" length="6255715" position="5414374" beat="347.86227513227516" sync-position="2953824" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="189.77705215419505" length-beats="401.91668556311413" id="27686" type="midi" first-edit="nothing" source-0="27641" master-source-0="27641"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9446593" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="606.92396447467877" id="27996" type="midi" first-edit="nothing" source-0="27992" master-source-0="27992"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9209539" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="591.6937377173092" id="27999" type="midi" first-edit="nothing" source-0="27994" master-source-0="27994"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9446593" position="5302360" beat="340.66560846560844" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="606.92396447467877" id="28003" type="midi" first-edit="nothing" source-0="27992" master-source-0="27992"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9209539" position="14748953" beat="947.58957294028733" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="591.6937377173092" id="28008" type="midi" first-edit="nothing" source-0="27994" master-source-0="27994"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-16.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2959649" position="14748953" beat="947.58957294028733" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="190.1512962962961" id="28019" type="midi" first-edit="nothing" source-0="27994" master-source-0="27994"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-16.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="2959649" length="6249890" position="17708602" beat="1137.7408692365834" sync-position="2959649" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="190.1512962962961" length-beats="401.54244142101311" id="28022" type="midi" first-edit="nothing" source-0="27994" master-source-0="27994"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-16.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="2892847" position="14748953" beat="947.58957294028733" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="185.85940665154931" id="28028" type="midi" first-edit="nothing" source-0="27994" master-source-0="27994"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-16.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="2892847" length="66802" position="17641800" beat="1133.4489795918366" sync-position="2892847" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="185.85940665154931" length-beats="4.2918896447467887" id="28031" type="midi" first-edit="nothing" source-0="27994" master-source-0="27994"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-16.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="2959649" length="268124" position="17708602" beat="1137.7408692365834" sync-position="2959649" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="190.1512962962961" length-beats="17.226409674981142" id="28046" type="midi" first-edit="nothing" source-0="27994" master-source-0="27994"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-16.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="3227773" length="5981766" position="17976726" beat="1154.9672789115646" sync-position="3227773" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="207.37770597127724" length-beats="384.31603174603197" id="28049" type="midi" first-edit="nothing" source-0="27994" master-source-0="27994"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-16.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="3228825" length="5980714" position="17977778" beat="1155.0348677248678" sync-position="3228825" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="207.44529478458048" length-beats="384.24844293272872" id="28059" type="midi" first-edit="nothing" source-0="27994" master-source-0="27994"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9446593" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="606.92396447467877" id="28367" type="midi" first-edit="nothing" source-0="28363" master-source-0="28363"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9209539" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="591.6937377173092" id="28370" type="midi" first-edit="nothing" source-0="28365" master-source-0="28365"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9446593" position="5256971" beat="337.74945956160241" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="606.92396447467877" id="28374" type="midi" first-edit="nothing" source-0="28363" master-source-0="28363"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9209539" position="14703564" beat="944.67342403628118" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="591.6937377173092" id="28379" type="midi" first-edit="nothing" source-0="28365" master-source-0="28365"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-17.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="3232261" position="14703835" beat="944.69083522297808" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="207.66605064247938" id="28390" type="midi" first-edit="nothing" source-0="28365" master-source-0="28365"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-17.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="3232261" length="5977278" position="17935825" beat="1152.3394746787606" sync-position="3232261" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="207.66605064247938" length-beats="384.02768707482983" id="28393" type="midi" first-edit="nothing" source-0="28365" master-source-0="28365"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-17.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="3733928" length="5475611" position="18437492" beat="1184.570536659108" sync-position="3733928" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="239.89711262282685" length-beats="351.79662509448235" id="28410" type="midi" first-edit="nothing" source-0="28365" master-source-0="28365"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-18" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9446593" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="606.92396447467877" id="28742" type="midi" first-edit="nothing" source-0="28738" master-source-0="28738"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-18" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9209539" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="591.6937377173092" id="28745" type="midi" first-edit="nothing" source-0="28740" master-source-0="28740"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-18" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9446593" position="5534525" beat="355.58172713529859" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="606.92396447467877" id="28749" type="midi" first-edit="nothing" source-0="28738" master-source-0="28738"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-18" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9209539" position="9629694" beat="618.68782312925168" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="591.6937377173092" id="28754" type="midi" first-edit="nothing" source-0="28740" master-source-0="28740"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-18.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="3226392" position="9629694" beat="618.68782312925168" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="207.28897959183678" id="28769" type="midi" first-edit="nothing" source-0="28740" master-source-0="28740"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-18.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="3226392" length="5983147" position="12856086" beat="825.97680272108846" sync-position="3226392" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="207.28897959183678" length-beats="384.40475812547243" id="28772" type="midi" first-edit="nothing" source-0="28740" master-source-0="28740"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-18.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="3733948" length="5475591" position="13364714" beat="858.65509448223736" sync-position="3733948" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="239.8983975812547" length-beats="351.79534013605451" id="28785" type="midi" first-edit="nothing" source-0="28740" master-source-0="28740"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9446593" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="606.92396447467877" id="29123" type="midi" first-edit="nothing" source-0="29119" master-source-0="29119"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9209539" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="591.6937377173092" id="29126" type="midi" first-edit="nothing" source-0="29121" master-source-0="29121"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9446593" position="5987509" beat="384.685007558579" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="606.92396447467877" id="29130" type="midi" first-edit="nothing" source-0="29119" master-source-0="29119"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9209539" position="15434102" beat="991.60897203325783" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="591.6937377173092" id="29135" type="midi" first-edit="nothing" source-0="29121" master-source-0="29121"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-19.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="3733655" position="15434102" beat="991.60897203325783" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="239.87957294028718" id="29146" type="midi" first-edit="nothing" source-0="29121" master-source-0="29121"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-19.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="3733655" length="5475884" position="19167757" beat="1231.488544973545" sync-position="3733655" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="239.87957294028718" length-beats="351.81416477702203" id="29149" type="midi" first-edit="nothing" source-0="29121" master-source-0="29121"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-19.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="5723856" length="3485683" position="21157958" beat="1359.3548223733937" sync-position="5723856" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="367.74585034013592" length-beats="223.94788737717329" id="29162" type="midi" first-edit="nothing" source-0="29121" master-source-0="29121"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9446593" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="606.92396447467877" id="29507" type="midi" first-edit="nothing" source-0="29503" master-source-0="29503"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9209539" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="591.6937377173092" id="29510" type="midi" first-edit="nothing" source-0="29505" master-source-0="29505"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9446593" position="2036304" beat="130.8282993197279" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="606.92396447467877" id="29514" type="midi" first-edit="nothing" source-0="29503" master-source-0="29503"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9209539" position="11482897" beat="737.75226379440664" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="591.6937377173092" id="29519" type="midi" first-edit="nothing" source-0="29505" master-source-0="29505"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-20.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="3733669" position="11482897" beat="737.75226379440664" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="239.8804724111867" id="29530" type="midi" first-edit="nothing" source-0="29505" master-source-0="29505"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-20.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="3733669" length="5475870" position="15216566" beat="977.63273620559335" sync-position="3733669" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="239.8804724111867" length-beats="351.8132653061225" id="29533" type="midi" first-edit="nothing" source-0="29505" master-source-0="29505"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-20.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="5725991" length="3483548" position="17208888" beat="1105.635283446712" sync-position="5725991" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="367.88301965230539" length-beats="223.81071806500381" id="29546" type="midi" first-edit="nothing" source-0="29505" master-source-0="29505"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9446593" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="606.92396447467877" id="29905" type="midi" first-edit="nothing" source-0="29901" master-source-0="29901"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9209539" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="591.6937377173092" id="29908" type="midi" first-edit="nothing" source-0="29903" master-source-0="29903"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9446593" position="8420668" beat="541.01041572184431" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="606.92396447467877" id="29912" type="midi" first-edit="nothing" source-0="29901" master-source-0="29901"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="1" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="9209539" position="17867261" beat="1147.9343801965231" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="591.6937377173092" id="29917" type="midi" first-edit="nothing" source-0="29903" master-source-0="29903"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-21.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="5725909" position="17867261" beat="1147.9343801965231" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="367.87775132275124" id="29928" type="midi" first-edit="nothing" source-0="29903" master-source-0="29903"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-21.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="5725909" length="3483630" position="23593170" beat="1515.8121315192743" sync-position="5725909" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="367.87775132275124" length-beats="223.81598639455797" id="29931" type="midi" first-edit="nothing" source-0="29903" master-source-0="29903"/>
+    <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-21.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="7219063" length="1990476" position="25086324" beat="1611.7441723356008" sync-position="7219063" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="1" start-beats="463.80979213907767" length-beats="127.88394557823153" id="29944" type="midi" first-edit="nothing" source-0="29903" master-source-0="29903"/>
   </Regions>
   <Selection>
-    <StripableAutomationControl stripable="23577" control="0" order="32"/>
+    <StripableAutomationControl stripable="29627" control="0" order="33"/>
   </Selection>
   <Locations>
     <Location id="20943" name="session" start="0" end="32351905" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
@@ -189,8 +283,18 @@
           <Connection other="Bass 1/audio_out 1"/>
           <Connection other="Bass 2/audio_out 1"/>
           <Connection other="Bass 3/audio_out 1"/>
-          <Connection other="Theme 1/audio_out 1"/>
-          <Connection other="Theme 2/audio_out 1"/>
+          <Connection other="Final 1/audio_out 1"/>
+          <Connection other="Harm 1/audio_out 1"/>
+          <Connection other="Harm 2/audio_out 1"/>
+          <Connection other="Harm 3/audio_out 1"/>
+          <Connection other="Harm Brigde/audio_out 1"/>
+          <Connection other="Main Theme 1/audio_out 1"/>
+          <Connection other="Main Theme 2/audio_out 1"/>
+          <Connection other="PostWaves/audio_out 1"/>
+          <Connection other="PreMainRythm/audio_out 1"/>
+          <Connection other="PreMainWaves/audio_out 1"/>
+          <Connection other="Theme song 1/audio_out 1"/>
+          <Connection other="Theme song 2/audio_out 1"/>
           <Connection other="Waves 1/audio_out 1"/>
           <Connection other="Waves 2/audio_out 1"/>
           <Connection other="Waves 3 long/audio_out 1"/>
@@ -200,8 +304,18 @@
           <Connection other="Bass 1/audio_out 2"/>
           <Connection other="Bass 2/audio_out 2"/>
           <Connection other="Bass 3/audio_out 2"/>
-          <Connection other="Theme 1/audio_out 2"/>
-          <Connection other="Theme 2/audio_out 2"/>
+          <Connection other="Final 1/audio_out 2"/>
+          <Connection other="Harm 1/audio_out 2"/>
+          <Connection other="Harm 2/audio_out 2"/>
+          <Connection other="Harm 3/audio_out 2"/>
+          <Connection other="Harm Brigde/audio_out 2"/>
+          <Connection other="Main Theme 1/audio_out 2"/>
+          <Connection other="Main Theme 2/audio_out 2"/>
+          <Connection other="PostWaves/audio_out 2"/>
+          <Connection other="PreMainRythm/audio_out 2"/>
+          <Connection other="PreMainWaves/audio_out 2"/>
+          <Connection other="Theme song 1/audio_out 2"/>
+          <Connection other="Theme song 2/audio_out 2"/>
           <Connection other="Waves 1/audio_out 2"/>
           <Connection other="Waves 2/audio_out 2"/>
           <Connection other="Waves 3 long/audio_out 2"/>
@@ -1056,22 +1170,22 @@
       <Controllable name="rec-enable" id="22987" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="Waves 3 long 1.1" name="Waves 3 long 1" id="22980" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
-    <Route id="23257" name="Theme 1" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
+    <Route id="23257" name="Theme song 1" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
       <PresentationInfo order="8" flags="MidiTrack,OrderSet" color="2054350335"/>
       <Controllable name="solo" id="23224" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="23296" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="23297" flags="Toggle" value="0" solo-safe="0"/>
-      <IO name="Theme 1" id="23258" direction="Input" default-type="midi" user-latency="0">
-        <Port type="midi" name="Theme 1/midi_in 1"/>
+      <IO name="Theme song 1" id="23258" direction="Input" default-type="midi" user-latency="0">
+        <Port type="midi" name="Theme song 1/midi_in 1"/>
       </IO>
-      <IO name="Theme 1" id="23259" direction="Output" default-type="midi" user-latency="0">
-        <Port type="audio" name="Theme 1/audio_out 1">
+      <IO name="Theme song 1" id="23259" direction="Output" default-type="midi" user-latency="0">
+        <Port type="audio" name="Theme song 1/audio_out 1">
           <Connection other="Master/audio_in 1"/>
         </Port>
-        <Port type="audio" name="Theme 1/audio_out 2">
+        <Port type="audio" name="Theme song 1/audio_out 2">
           <Connection other="Master/audio_in 2"/>
         </Port>
-        <Port type="midi" name="Theme 1/midi_out 1"/>
+        <Port type="midi" name="Theme song 1/midi_out 1"/>
       </IO>
       <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
       <Controllable name="mute" id="23298" flags="Toggle,RealTime" value="0"/>
@@ -1145,7 +1259,7 @@
         <Controllable name="gaincontrol" id="23292" flags="GainLike" value="0.96275621652603149"/>
       </Processor>
       <Processor id="23293" name="meter-Bass" active="1" user-latency="0" type="meter"/>
-      <Processor id="23294" name="Theme 1" active="1" user-latency="0" own-input="1" own-output="0" output="Theme 1" type="main-outs" role="Main">
+      <Processor id="23294" name="Theme song 1" active="1" user-latency="0" own-input="1" own-output="0" output="Theme song 1" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
         <Pannable>
           <Controllable name="pan-azimuth" id="23260" flags="" value="0.5"/>
@@ -1168,22 +1282,22 @@
       <Controllable name="rec-enable" id="23316" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="Waves 4 long 1.1" name="Waves 4 long 1" id="23309" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
-    <Route id="23577" name="Theme 2" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
+    <Route id="23577" name="Theme song 2" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
       <PresentationInfo order="9" flags="MidiTrack,OrderSet" color="1920263679"/>
-      <Controllable name="solo" id="23544" flags="Toggle,RealTime" value="1" self-solo="1" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo" id="23544" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="23616" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="23617" flags="Toggle" value="0" solo-safe="0"/>
-      <IO name="Theme 2" id="23578" direction="Input" default-type="midi" user-latency="0">
-        <Port type="midi" name="Theme 2/midi_in 1"/>
+      <IO name="Theme song 2" id="23578" direction="Input" default-type="midi" user-latency="0">
+        <Port type="midi" name="Theme song 2/midi_in 1"/>
       </IO>
-      <IO name="Theme 2" id="23579" direction="Output" default-type="midi" user-latency="0">
-        <Port type="audio" name="Theme 2/audio_out 1">
+      <IO name="Theme song 2" id="23579" direction="Output" default-type="midi" user-latency="0">
+        <Port type="audio" name="Theme song 2/audio_out 1">
           <Connection other="Master/audio_in 1"/>
         </Port>
-        <Port type="audio" name="Theme 2/audio_out 2">
+        <Port type="audio" name="Theme song 2/audio_out 2">
           <Connection other="Master/audio_in 2"/>
         </Port>
-        <Port type="midi" name="Theme 2/midi_out 1"/>
+        <Port type="midi" name="Theme song 2/midi_out 1"/>
       </IO>
       <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
       <Controllable name="mute" id="23618" flags="Toggle,RealTime" value="0"/>
@@ -1257,7 +1371,7 @@
         <Controllable name="gaincontrol" id="23612" flags="GainLike" value="0.96275621652603149"/>
       </Processor>
       <Processor id="23613" name="meter-Bass" active="1" user-latency="0" type="meter"/>
-      <Processor id="23614" name="Theme 2" active="1" user-latency="0" own-input="1" own-output="0" output="Theme 2" type="main-outs" role="Main">
+      <Processor id="23614" name="Theme song 2" active="1" user-latency="0" own-input="1" own-output="0" output="Theme song 2" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
         <Pannable>
           <Controllable name="pan-azimuth" id="23580" flags="" value="0.5"/>
@@ -1280,6 +1394,1126 @@
       <Controllable name="rec-enable" id="23636" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="Theme 1 1.1" name="Theme 1 1" id="23629" speed="1" capture-alignment="Automatic" record-safe="0"/>
     </Route>
+    <Route id="26399" name="Final 1" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
+      <PresentationInfo order="10" flags="MidiTrack,OrderSet" color="3850950655"/>
+      <Controllable name="solo" id="26366" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="26438" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="26439" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="Final 1" id="26400" direction="Input" default-type="midi" user-latency="0">
+        <Port type="midi" name="Final 1/midi_in 1"/>
+      </IO>
+      <IO name="Final 1" id="26401" direction="Output" default-type="midi" user-latency="0">
+        <Port type="audio" name="Final 1/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="Final 1/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+        <Port type="midi" name="Final 1/midi_out 1"/>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="26440" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="phase" id="26441" flags="Toggle" value="0" phase-invert=""/>
+      <Automation>
+        <AutomationList automation-id="solo" id="26442" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="26443" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="26444" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="26445" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="26446" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="26447" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="26448" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="26449" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="26402" flags="" value="0.5"/>
+        <Controllable name="pan-width" id="26403" flags="" value="1"/>
+        <Controllable name="pan-elevation" id="26404" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="26405" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="26406" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="26407" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="26408" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="26409" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="26410" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="26411" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="26427" name="Calf Fluidsynth" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Fluidsynth" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-2" id="26428" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-3" id="26429" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-4" id="26430" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="26431" interpolation-style="Discrete" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="midi" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="midi" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+          <Channelmap type="midi" from="0" to="0"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state11">
+          <Port symbol="master" value="0.5"/>
+          <Port symbol="interpolation" value="2"/>
+          <Port symbol="reverb" value="1"/>
+          <Port symbol="chorus" value="1"/>
+        </lv2>
+        <Controllable name="Volume" id="26423" flags="" value="0.5" parameter="2" symbol="master"/>
+        <Controllable name="Interpolation" id="26424" flags="" value="2" parameter="3" symbol="interpolation"/>
+        <Controllable name="Reverb" id="26425" flags="Toggle" value="1" parameter="4" symbol="reverb"/>
+        <Controllable name="Chorus" id="26426" flags="Toggle" value="1" parameter="5" symbol="chorus"/>
+      </Processor>
+      <Processor id="26432" name="Amp" active="1" user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="26433" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="26434" flags="GainLike" value="0.96275621652603149"/>
+      </Processor>
+      <Processor id="26435" name="meter-Bass" active="1" user-latency="0" type="meter"/>
+      <Processor id="26436" name="Final 1" active="1" user-latency="0" own-input="1" own-output="0" output="Final 1" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="26402" flags="" value="0.5"/>
+          <Controllable name="pan-width" id="26403" flags="" value="1"/>
+          <Controllable name="pan-elevation" id="26404" flags="" value="0"/>
+          <Controllable name="pan-frontback" id="26405" flags="" value="0"/>
+          <Controllable name="pan-lfe" id="26406" flags="" value="0"/>
+          <Automation>
+            <AutomationList automation-id="pan-azimuth" id="26407" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-elevation" id="26408" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-width" id="26409" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-frontback" id="26410" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-lfe" id="26411" interpolation-style="Linear" state="Off"/>
+          </Automation>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="26456" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="26457" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="26458" flags="Toggle,RealTime" value="0"/>
+      <Diskstream flags="Recordable" playlist="Theme 2 1.1" name="Theme 2 1" id="26451" speed="1" capture-alignment="Automatic" record-safe="0"/>
+    </Route>
+    <Route id="26723" name="Harm 1" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
+      <PresentationInfo order="11" flags="MidiTrack,OrderSet" color="3471042047"/>
+      <Controllable name="solo" id="26690" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="26762" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="26763" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="Harm 1" id="26724" direction="Input" default-type="midi" user-latency="0">
+        <Port type="midi" name="Harm 1/midi_in 1"/>
+      </IO>
+      <IO name="Harm 1" id="26725" direction="Output" default-type="midi" user-latency="0">
+        <Port type="audio" name="Harm 1/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="Harm 1/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+        <Port type="midi" name="Harm 1/midi_out 1"/>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="26764" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="phase" id="26765" flags="Toggle" value="0" phase-invert=""/>
+      <Automation>
+        <AutomationList automation-id="solo" id="26766" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="26767" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="26768" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="26769" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="26770" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="26771" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="26772" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="26773" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="26726" flags="" value="0.5"/>
+        <Controllable name="pan-width" id="26727" flags="" value="1"/>
+        <Controllable name="pan-elevation" id="26728" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="26729" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="26730" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="26731" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="26732" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="26733" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="26734" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="26735" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="26751" name="Calf Fluidsynth" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Fluidsynth" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-2" id="26752" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-3" id="26753" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-4" id="26754" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="26755" interpolation-style="Discrete" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="midi" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="midi" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+          <Channelmap type="midi" from="0" to="0"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state12">
+          <Port symbol="master" value="0.5"/>
+          <Port symbol="interpolation" value="2"/>
+          <Port symbol="reverb" value="1"/>
+          <Port symbol="chorus" value="1"/>
+        </lv2>
+        <Controllable name="Volume" id="26747" flags="" value="0.5" parameter="2" symbol="master"/>
+        <Controllable name="Interpolation" id="26748" flags="" value="2" parameter="3" symbol="interpolation"/>
+        <Controllable name="Reverb" id="26749" flags="Toggle" value="1" parameter="4" symbol="reverb"/>
+        <Controllable name="Chorus" id="26750" flags="Toggle" value="1" parameter="5" symbol="chorus"/>
+      </Processor>
+      <Processor id="26756" name="Amp" active="1" user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="26757" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="26758" flags="GainLike" value="0.96275621652603149"/>
+      </Processor>
+      <Processor id="26759" name="meter-Bass" active="1" user-latency="0" type="meter"/>
+      <Processor id="26760" name="Harm 1" active="1" user-latency="0" own-input="1" own-output="0" output="Harm 1" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="26726" flags="" value="0.5"/>
+          <Controllable name="pan-width" id="26727" flags="" value="1"/>
+          <Controllable name="pan-elevation" id="26728" flags="" value="0"/>
+          <Controllable name="pan-frontback" id="26729" flags="" value="0"/>
+          <Controllable name="pan-lfe" id="26730" flags="" value="0"/>
+          <Automation>
+            <AutomationList automation-id="pan-azimuth" id="26731" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-elevation" id="26732" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-width" id="26733" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-frontback" id="26734" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-lfe" id="26735" interpolation-style="Linear" state="Off"/>
+          </Automation>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="26780" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="26781" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="26782" flags="Toggle,RealTime" value="0"/>
+      <Diskstream flags="Recordable" playlist="Final 1 1.1" name="Final 1 1" id="26775" speed="1" capture-alignment="Automatic" record-safe="0"/>
+    </Route>
+    <Route id="27039" name="Harm 2" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
+      <PresentationInfo order="12" flags="MidiTrack,OrderSet" color="3857049087"/>
+      <Controllable name="solo" id="27006" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="27078" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="27079" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="Harm 2" id="27040" direction="Input" default-type="midi" user-latency="0">
+        <Port type="midi" name="Harm 2/midi_in 1"/>
+      </IO>
+      <IO name="Harm 2" id="27041" direction="Output" default-type="midi" user-latency="0">
+        <Port type="audio" name="Harm 2/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="Harm 2/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+        <Port type="midi" name="Harm 2/midi_out 1"/>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="27080" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="phase" id="27081" flags="Toggle" value="0" phase-invert=""/>
+      <Automation>
+        <AutomationList automation-id="solo" id="27082" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="27083" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="27084" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="27085" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="27086" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="27087" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="27088" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="27089" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="27042" flags="" value="0.5"/>
+        <Controllable name="pan-width" id="27043" flags="" value="1"/>
+        <Controllable name="pan-elevation" id="27044" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="27045" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="27046" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="27047" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="27048" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="27049" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="27050" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="27051" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="27067" name="Calf Fluidsynth" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Fluidsynth" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-2" id="27068" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-3" id="27069" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-4" id="27070" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="27071" interpolation-style="Discrete" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="midi" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="midi" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+          <Channelmap type="midi" from="0" to="0"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state13">
+          <Port symbol="master" value="0.5"/>
+          <Port symbol="interpolation" value="2"/>
+          <Port symbol="reverb" value="1"/>
+          <Port symbol="chorus" value="1"/>
+        </lv2>
+        <Controllable name="Volume" id="27063" flags="" value="0.5" parameter="2" symbol="master"/>
+        <Controllable name="Interpolation" id="27064" flags="" value="2" parameter="3" symbol="interpolation"/>
+        <Controllable name="Reverb" id="27065" flags="Toggle" value="1" parameter="4" symbol="reverb"/>
+        <Controllable name="Chorus" id="27066" flags="Toggle" value="1" parameter="5" symbol="chorus"/>
+      </Processor>
+      <Processor id="27072" name="Amp" active="1" user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="27073" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="27074" flags="GainLike" value="0.96275621652603149"/>
+      </Processor>
+      <Processor id="27075" name="meter-Bass" active="1" user-latency="0" type="meter"/>
+      <Processor id="27076" name="Harm 2" active="1" user-latency="0" own-input="1" own-output="0" output="Harm 2" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="27042" flags="" value="0.5"/>
+          <Controllable name="pan-width" id="27043" flags="" value="1"/>
+          <Controllable name="pan-elevation" id="27044" flags="" value="0"/>
+          <Controllable name="pan-frontback" id="27045" flags="" value="0"/>
+          <Controllable name="pan-lfe" id="27046" flags="" value="0"/>
+          <Automation>
+            <AutomationList automation-id="pan-azimuth" id="27047" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-elevation" id="27048" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-width" id="27049" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-frontback" id="27050" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-lfe" id="27051" interpolation-style="Linear" state="Off"/>
+          </Automation>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="27096" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="27097" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="27098" flags="Toggle,RealTime" value="0"/>
+      <Diskstream flags="Recordable" playlist="Harm 1 1.1" name="Harm 1 1" id="27091" speed="1" capture-alignment="Automatic" record-safe="0"/>
+    </Route>
+    <Route id="27397" name="Harm 3" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
+      <PresentationInfo order="13" flags="MidiTrack,OrderSet" color="3856915967"/>
+      <Controllable name="solo" id="27364" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="27436" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="27437" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="Harm 3" id="27398" direction="Input" default-type="midi" user-latency="0">
+        <Port type="midi" name="Harm 3/midi_in 1"/>
+      </IO>
+      <IO name="Harm 3" id="27399" direction="Output" default-type="midi" user-latency="0">
+        <Port type="audio" name="Harm 3/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="Harm 3/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+        <Port type="midi" name="Harm 3/midi_out 1"/>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="27438" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="phase" id="27439" flags="Toggle" value="0" phase-invert=""/>
+      <Automation>
+        <AutomationList automation-id="solo" id="27440" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="27441" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="27442" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="27443" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="27444" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="27445" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="27446" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="27447" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="27400" flags="" value="0.5"/>
+        <Controllable name="pan-width" id="27401" flags="" value="1"/>
+        <Controllable name="pan-elevation" id="27402" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="27403" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="27404" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="27405" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="27406" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="27407" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="27408" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="27409" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="27425" name="Calf Fluidsynth" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Fluidsynth" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-2" id="27426" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-3" id="27427" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-4" id="27428" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="27429" interpolation-style="Discrete" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="midi" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="midi" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+          <Channelmap type="midi" from="0" to="0"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state14">
+          <Port symbol="master" value="0.5"/>
+          <Port symbol="interpolation" value="2"/>
+          <Port symbol="reverb" value="1"/>
+          <Port symbol="chorus" value="1"/>
+        </lv2>
+        <Controllable name="Volume" id="27421" flags="" value="0.5" parameter="2" symbol="master"/>
+        <Controllable name="Interpolation" id="27422" flags="" value="2" parameter="3" symbol="interpolation"/>
+        <Controllable name="Reverb" id="27423" flags="Toggle" value="1" parameter="4" symbol="reverb"/>
+        <Controllable name="Chorus" id="27424" flags="Toggle" value="1" parameter="5" symbol="chorus"/>
+      </Processor>
+      <Processor id="27430" name="Amp" active="1" user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="27431" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="27432" flags="GainLike" value="0.96275621652603149"/>
+      </Processor>
+      <Processor id="27433" name="meter-Bass" active="1" user-latency="0" type="meter"/>
+      <Processor id="27434" name="Harm 3" active="1" user-latency="0" own-input="1" own-output="0" output="Harm 3" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="27400" flags="" value="0.5"/>
+          <Controllable name="pan-width" id="27401" flags="" value="1"/>
+          <Controllable name="pan-elevation" id="27402" flags="" value="0"/>
+          <Controllable name="pan-frontback" id="27403" flags="" value="0"/>
+          <Controllable name="pan-lfe" id="27404" flags="" value="0"/>
+          <Automation>
+            <AutomationList automation-id="pan-azimuth" id="27405" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-elevation" id="27406" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-width" id="27407" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-frontback" id="27408" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-lfe" id="27409" interpolation-style="Linear" state="Off"/>
+          </Automation>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="27454" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="27455" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="27456" flags="Toggle,RealTime" value="0"/>
+      <Diskstream flags="Recordable" playlist="Harm 3" name="Harm 3" id="27449" speed="1" capture-alignment="Automatic" record-safe="0"/>
+    </Route>
+    <Route id="27744" name="Harm Brigde" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
+      <PresentationInfo order="14" flags="MidiTrack,OrderSet" color="3856518143"/>
+      <Controllable name="solo" id="27711" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="27783" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="27784" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="Harm Brigde" id="27745" direction="Input" default-type="midi" user-latency="0">
+        <Port type="midi" name="Harm Brigde/midi_in 1"/>
+      </IO>
+      <IO name="Harm Brigde" id="27746" direction="Output" default-type="midi" user-latency="0">
+        <Port type="audio" name="Harm Brigde/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="Harm Brigde/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+        <Port type="midi" name="Harm Brigde/midi_out 1"/>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="27785" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="phase" id="27786" flags="Toggle" value="0" phase-invert=""/>
+      <Automation>
+        <AutomationList automation-id="solo" id="27787" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="27788" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="27789" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="27790" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="27791" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="27792" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="27793" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="27794" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="27747" flags="" value="0.5"/>
+        <Controllable name="pan-width" id="27748" flags="" value="1"/>
+        <Controllable name="pan-elevation" id="27749" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="27750" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="27751" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="27752" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="27753" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="27754" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="27755" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="27756" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="27772" name="Calf Fluidsynth" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Fluidsynth" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-2" id="27773" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-3" id="27774" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-4" id="27775" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="27776" interpolation-style="Discrete" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="midi" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="midi" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+          <Channelmap type="midi" from="0" to="0"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state15">
+          <Port symbol="master" value="0.5"/>
+          <Port symbol="interpolation" value="2"/>
+          <Port symbol="reverb" value="1"/>
+          <Port symbol="chorus" value="1"/>
+        </lv2>
+        <Controllable name="Volume" id="27768" flags="" value="0.5" parameter="2" symbol="master"/>
+        <Controllable name="Interpolation" id="27769" flags="" value="2" parameter="3" symbol="interpolation"/>
+        <Controllable name="Reverb" id="27770" flags="Toggle" value="1" parameter="4" symbol="reverb"/>
+        <Controllable name="Chorus" id="27771" flags="Toggle" value="1" parameter="5" symbol="chorus"/>
+      </Processor>
+      <Processor id="27777" name="Amp" active="1" user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="27778" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="27779" flags="GainLike" value="0.96275621652603149"/>
+      </Processor>
+      <Processor id="27780" name="meter-Bass" active="1" user-latency="0" type="meter"/>
+      <Processor id="27781" name="Harm Brigde" active="1" user-latency="0" own-input="1" own-output="0" output="Harm Brigde" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="27747" flags="" value="0.5"/>
+          <Controllable name="pan-width" id="27748" flags="" value="1"/>
+          <Controllable name="pan-elevation" id="27749" flags="" value="0"/>
+          <Controllable name="pan-frontback" id="27750" flags="" value="0"/>
+          <Controllable name="pan-lfe" id="27751" flags="" value="0"/>
+          <Automation>
+            <AutomationList automation-id="pan-azimuth" id="27752" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-elevation" id="27753" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-width" id="27754" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-frontback" id="27755" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-lfe" id="27756" interpolation-style="Linear" state="Off"/>
+          </Automation>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="27801" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="27802" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="27803" flags="Toggle,RealTime" value="0"/>
+      <Diskstream flags="Recordable" playlist="Harm Brigde" name="Harm Brigde" id="27796" speed="1" capture-alignment="Automatic" record-safe="0"/>
+    </Route>
+    <Route id="28113" name="PreMainWaves" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
+      <PresentationInfo order="15" flags="MidiTrack,OrderSet" color="3853228287"/>
+      <Controllable name="solo" id="28080" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="28152" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="28153" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="PreMainWaves" id="28114" direction="Input" default-type="midi" user-latency="0">
+        <Port type="midi" name="PreMainWaves/midi_in 1"/>
+      </IO>
+      <IO name="PreMainWaves" id="28115" direction="Output" default-type="midi" user-latency="0">
+        <Port type="audio" name="PreMainWaves/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="PreMainWaves/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+        <Port type="midi" name="PreMainWaves/midi_out 1"/>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="28154" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="phase" id="28155" flags="Toggle" value="0" phase-invert=""/>
+      <Automation>
+        <AutomationList automation-id="solo" id="28156" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="28157" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="28158" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="28159" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="28160" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="28161" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="28162" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="28163" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="28116" flags="" value="0.5"/>
+        <Controllable name="pan-width" id="28117" flags="" value="1"/>
+        <Controllable name="pan-elevation" id="28118" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="28119" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="28120" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="28121" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="28122" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="28123" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="28124" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="28125" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="28141" name="Calf Fluidsynth" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Fluidsynth" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-2" id="28142" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-3" id="28143" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-4" id="28144" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="28145" interpolation-style="Discrete" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="midi" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="midi" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+          <Channelmap type="midi" from="0" to="0"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state16">
+          <Port symbol="master" value="0.5"/>
+          <Port symbol="interpolation" value="2"/>
+          <Port symbol="reverb" value="1"/>
+          <Port symbol="chorus" value="1"/>
+        </lv2>
+        <Controllable name="Volume" id="28137" flags="" value="0.5" parameter="2" symbol="master"/>
+        <Controllable name="Interpolation" id="28138" flags="" value="2" parameter="3" symbol="interpolation"/>
+        <Controllable name="Reverb" id="28139" flags="Toggle" value="1" parameter="4" symbol="reverb"/>
+        <Controllable name="Chorus" id="28140" flags="Toggle" value="1" parameter="5" symbol="chorus"/>
+      </Processor>
+      <Processor id="28146" name="Amp" active="1" user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="28147" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="28148" flags="GainLike" value="0.96275621652603149"/>
+      </Processor>
+      <Processor id="28149" name="meter-Bass" active="1" user-latency="0" type="meter"/>
+      <Processor id="28150" name="PreMainWaves" active="1" user-latency="0" own-input="1" own-output="0" output="PreMainWaves" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="28116" flags="" value="0.5"/>
+          <Controllable name="pan-width" id="28117" flags="" value="1"/>
+          <Controllable name="pan-elevation" id="28118" flags="" value="0"/>
+          <Controllable name="pan-frontback" id="28119" flags="" value="0"/>
+          <Controllable name="pan-lfe" id="28120" flags="" value="0"/>
+          <Automation>
+            <AutomationList automation-id="pan-azimuth" id="28121" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-elevation" id="28122" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-width" id="28123" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-frontback" id="28124" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-lfe" id="28125" interpolation-style="Linear" state="Off"/>
+          </Automation>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="28170" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="28171" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="28172" flags="Toggle,RealTime" value="0"/>
+      <Diskstream flags="Recordable" playlist="Harm Brigde 1.1" name="Harm Brigde 1" id="28165" speed="1" capture-alignment="Automatic" record-safe="0"/>
+    </Route>
+    <Route id="28482" name="PreMainRythm" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
+      <PresentationInfo order="16" flags="MidiTrack,OrderSet" color="1927653119"/>
+      <Controllable name="solo" id="28449" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="28521" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="28522" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="PreMainRythm" id="28483" direction="Input" default-type="midi" user-latency="0">
+        <Port type="midi" name="PreMainRythm/midi_in 1"/>
+      </IO>
+      <IO name="PreMainRythm" id="28484" direction="Output" default-type="midi" user-latency="0">
+        <Port type="audio" name="PreMainRythm/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="PreMainRythm/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+        <Port type="midi" name="PreMainRythm/midi_out 1"/>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="28523" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="phase" id="28524" flags="Toggle" value="0" phase-invert=""/>
+      <Automation>
+        <AutomationList automation-id="solo" id="28525" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="28526" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="28527" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="28528" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="28529" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="28530" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="28531" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="28532" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="28485" flags="" value="0.5"/>
+        <Controllable name="pan-width" id="28486" flags="" value="1"/>
+        <Controllable name="pan-elevation" id="28487" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="28488" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="28489" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="28490" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="28491" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="28492" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="28493" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="28494" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="28510" name="Calf Fluidsynth" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Fluidsynth" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-2" id="28511" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-3" id="28512" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-4" id="28513" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="28514" interpolation-style="Discrete" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="midi" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="midi" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+          <Channelmap type="midi" from="0" to="0"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state17">
+          <Port symbol="master" value="0.5"/>
+          <Port symbol="interpolation" value="2"/>
+          <Port symbol="reverb" value="1"/>
+          <Port symbol="chorus" value="1"/>
+        </lv2>
+        <Controllable name="Volume" id="28506" flags="" value="0.5" parameter="2" symbol="master"/>
+        <Controllable name="Interpolation" id="28507" flags="" value="2" parameter="3" symbol="interpolation"/>
+        <Controllable name="Reverb" id="28508" flags="Toggle" value="1" parameter="4" symbol="reverb"/>
+        <Controllable name="Chorus" id="28509" flags="Toggle" value="1" parameter="5" symbol="chorus"/>
+      </Processor>
+      <Processor id="28515" name="Amp" active="1" user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="28516" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="28517" flags="GainLike" value="0.96275621652603149"/>
+      </Processor>
+      <Processor id="28518" name="meter-Bass" active="1" user-latency="0" type="meter"/>
+      <Processor id="28519" name="PreMainRythm" active="1" user-latency="0" own-input="1" own-output="0" output="PreMainRythm" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="28485" flags="" value="0.5"/>
+          <Controllable name="pan-width" id="28486" flags="" value="1"/>
+          <Controllable name="pan-elevation" id="28487" flags="" value="0"/>
+          <Controllable name="pan-frontback" id="28488" flags="" value="0"/>
+          <Controllable name="pan-lfe" id="28489" flags="" value="0"/>
+          <Automation>
+            <AutomationList automation-id="pan-azimuth" id="28490" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-elevation" id="28491" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-width" id="28492" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-frontback" id="28493" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-lfe" id="28494" interpolation-style="Linear" state="Off"/>
+          </Automation>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="28539" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="28540" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="28541" flags="Toggle,RealTime" value="0"/>
+      <Diskstream flags="Recordable" playlist="Main Waves 1.1" name="Main Waves 1" id="28534" speed="1" capture-alignment="Automatic" record-safe="0"/>
+    </Route>
+    <Route id="28857" name="Main Theme 1" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
+      <PresentationInfo order="17" flags="MidiTrack,OrderSet" color="2591221247"/>
+      <Controllable name="solo" id="28824" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="28896" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="28897" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="Main Theme 1" id="28858" direction="Input" default-type="midi" user-latency="0">
+        <Port type="midi" name="Main Theme 1/midi_in 1"/>
+      </IO>
+      <IO name="Main Theme 1" id="28859" direction="Output" default-type="midi" user-latency="0">
+        <Port type="audio" name="Main Theme 1/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="Main Theme 1/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+        <Port type="midi" name="Main Theme 1/midi_out 1"/>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="28898" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="phase" id="28899" flags="Toggle" value="0" phase-invert=""/>
+      <Automation>
+        <AutomationList automation-id="solo" id="28900" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="28901" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="28902" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="28903" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="28904" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="28905" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="28906" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="28907" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="28860" flags="" value="0.5"/>
+        <Controllable name="pan-width" id="28861" flags="" value="1"/>
+        <Controllable name="pan-elevation" id="28862" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="28863" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="28864" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="28865" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="28866" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="28867" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="28868" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="28869" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="28885" name="Calf Fluidsynth" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Fluidsynth" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-2" id="28886" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-3" id="28887" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-4" id="28888" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="28889" interpolation-style="Discrete" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="midi" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="midi" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+          <Channelmap type="midi" from="0" to="0"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state18">
+          <Port symbol="master" value="0.5"/>
+          <Port symbol="interpolation" value="2"/>
+          <Port symbol="reverb" value="1"/>
+          <Port symbol="chorus" value="1"/>
+        </lv2>
+        <Controllable name="Volume" id="28881" flags="" value="0.5" parameter="2" symbol="master"/>
+        <Controllable name="Interpolation" id="28882" flags="" value="2" parameter="3" symbol="interpolation"/>
+        <Controllable name="Reverb" id="28883" flags="Toggle" value="1" parameter="4" symbol="reverb"/>
+        <Controllable name="Chorus" id="28884" flags="Toggle" value="1" parameter="5" symbol="chorus"/>
+      </Processor>
+      <Processor id="28890" name="Amp" active="1" user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="28891" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="28892" flags="GainLike" value="0.96275621652603149"/>
+      </Processor>
+      <Processor id="28893" name="meter-Bass" active="1" user-latency="0" type="meter"/>
+      <Processor id="28894" name="Main Theme 1" active="1" user-latency="0" own-input="1" own-output="0" output="Main Theme 1" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="28860" flags="" value="0.5"/>
+          <Controllable name="pan-width" id="28861" flags="" value="1"/>
+          <Controllable name="pan-elevation" id="28862" flags="" value="0"/>
+          <Controllable name="pan-frontback" id="28863" flags="" value="0"/>
+          <Controllable name="pan-lfe" id="28864" flags="" value="0"/>
+          <Automation>
+            <AutomationList automation-id="pan-azimuth" id="28865" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-elevation" id="28866" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-width" id="28867" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-frontback" id="28868" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-lfe" id="28869" interpolation-style="Linear" state="Off"/>
+          </Automation>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="28914" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="28915" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="28916" flags="Toggle,RealTime" value="0"/>
+      <Diskstream flags="Recordable" playlist="PreMainRythm 1.1" name="PreMainRythm 1" id="28909" speed="1" capture-alignment="Automatic" record-safe="0"/>
+    </Route>
+    <Route id="29231" name="Main Theme 2" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
+      <PresentationInfo order="18" flags="MidiTrack,OrderSet" color="3269821951"/>
+      <Controllable name="solo" id="29198" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="29270" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="29271" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="Main Theme 2" id="29232" direction="Input" default-type="midi" user-latency="0">
+        <Port type="midi" name="Main Theme 2/midi_in 1"/>
+      </IO>
+      <IO name="Main Theme 2" id="29233" direction="Output" default-type="midi" user-latency="0">
+        <Port type="audio" name="Main Theme 2/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="Main Theme 2/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+        <Port type="midi" name="Main Theme 2/midi_out 1"/>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="29272" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="phase" id="29273" flags="Toggle" value="0" phase-invert=""/>
+      <Automation>
+        <AutomationList automation-id="solo" id="29274" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="29275" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="29276" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="29277" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="29278" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="29279" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="29280" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="29281" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="29234" flags="" value="0.5"/>
+        <Controllable name="pan-width" id="29235" flags="" value="1"/>
+        <Controllable name="pan-elevation" id="29236" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="29237" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="29238" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="29239" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="29240" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="29241" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="29242" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="29243" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="29259" name="Calf Fluidsynth" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Fluidsynth" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-2" id="29260" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-3" id="29261" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-4" id="29262" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="29263" interpolation-style="Discrete" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="midi" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="midi" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+          <Channelmap type="midi" from="0" to="0"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state19">
+          <Port symbol="master" value="0.5"/>
+          <Port symbol="interpolation" value="2"/>
+          <Port symbol="reverb" value="1"/>
+          <Port symbol="chorus" value="1"/>
+        </lv2>
+        <Controllable name="Volume" id="29255" flags="" value="0.5" parameter="2" symbol="master"/>
+        <Controllable name="Interpolation" id="29256" flags="" value="2" parameter="3" symbol="interpolation"/>
+        <Controllable name="Reverb" id="29257" flags="Toggle" value="1" parameter="4" symbol="reverb"/>
+        <Controllable name="Chorus" id="29258" flags="Toggle" value="1" parameter="5" symbol="chorus"/>
+      </Processor>
+      <Processor id="29264" name="Amp" active="1" user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="29265" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="29266" flags="GainLike" value="0.96275621652603149"/>
+      </Processor>
+      <Processor id="29267" name="meter-Bass" active="1" user-latency="0" type="meter"/>
+      <Processor id="29268" name="Main Theme 2" active="1" user-latency="0" own-input="1" own-output="0" output="Main Theme 2" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="29234" flags="" value="0.5"/>
+          <Controllable name="pan-width" id="29235" flags="" value="1"/>
+          <Controllable name="pan-elevation" id="29236" flags="" value="0"/>
+          <Controllable name="pan-frontback" id="29237" flags="" value="0"/>
+          <Controllable name="pan-lfe" id="29238" flags="" value="0"/>
+          <Automation>
+            <AutomationList automation-id="pan-azimuth" id="29239" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-elevation" id="29240" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-width" id="29241" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-frontback" id="29242" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-lfe" id="29243" interpolation-style="Linear" state="Off"/>
+          </Automation>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="29288" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="29289" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="29290" flags="Toggle,RealTime" value="0"/>
+      <Diskstream flags="Recordable" playlist="Main Theme 2" name="Main Theme 2" id="29283" speed="1" capture-alignment="Automatic" record-safe="0"/>
+    </Route>
+    <Route id="29627" name="PostWaves" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
+      <PresentationInfo order="19" flags="MidiTrack,OrderSet" color="3386041855"/>
+      <Controllable name="solo" id="29594" flags="Toggle,RealTime" value="1" self-solo="1" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="29666" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="29667" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="PostWaves" id="29628" direction="Input" default-type="midi" user-latency="0">
+        <Port type="midi" name="PostWaves/midi_in 1"/>
+      </IO>
+      <IO name="PostWaves" id="29629" direction="Output" default-type="midi" user-latency="0">
+        <Port type="audio" name="PostWaves/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="PostWaves/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+        <Port type="midi" name="PostWaves/midi_out 1"/>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="29668" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="phase" id="29669" flags="Toggle" value="0" phase-invert=""/>
+      <Automation>
+        <AutomationList automation-id="solo" id="29670" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="29671" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="29672" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="29673" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="29674" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="29675" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="29676" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="29677" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="29630" flags="" value="0.5"/>
+        <Controllable name="pan-width" id="29631" flags="" value="1"/>
+        <Controllable name="pan-elevation" id="29632" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="29633" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="29634" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="29635" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="29636" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="29637" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="29638" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="29639" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="29655" name="Calf Fluidsynth" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Fluidsynth" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-2" id="29656" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-3" id="29657" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-4" id="29658" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="29659" interpolation-style="Discrete" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="midi" count="1"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="midi" from="0" to="0"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+          <Channelmap type="midi" from="0" to="0"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0" state-dir="state20">
+          <Port symbol="master" value="0.5"/>
+          <Port symbol="interpolation" value="2"/>
+          <Port symbol="reverb" value="1"/>
+          <Port symbol="chorus" value="1"/>
+        </lv2>
+        <Controllable name="Volume" id="29651" flags="" value="0.5" parameter="2" symbol="master"/>
+        <Controllable name="Interpolation" id="29652" flags="" value="2" parameter="3" symbol="interpolation"/>
+        <Controllable name="Reverb" id="29653" flags="Toggle" value="1" parameter="4" symbol="reverb"/>
+        <Controllable name="Chorus" id="29654" flags="Toggle" value="1" parameter="5" symbol="chorus"/>
+      </Processor>
+      <Processor id="29660" name="Amp" active="1" user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="29661" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="29662" flags="GainLike" value="0.96275621652603149"/>
+      </Processor>
+      <Processor id="29663" name="meter-Bass" active="1" user-latency="0" type="meter"/>
+      <Processor id="29664" name="PostWaves" active="1" user-latency="0" own-input="1" own-output="0" output="PostWaves" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="29630" flags="" value="0.5"/>
+          <Controllable name="pan-width" id="29631" flags="" value="1"/>
+          <Controllable name="pan-elevation" id="29632" flags="" value="0"/>
+          <Controllable name="pan-frontback" id="29633" flags="" value="0"/>
+          <Controllable name="pan-lfe" id="29634" flags="" value="0"/>
+          <Automation>
+            <AutomationList automation-id="pan-azimuth" id="29635" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-elevation" id="29636" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-width" id="29637" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-frontback" id="29638" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-lfe" id="29639" interpolation-style="Linear" state="Off"/>
+          </Automation>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="29684" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="29685" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="29686" flags="Toggle,RealTime" value="0"/>
+      <Diskstream flags="Recordable" playlist="Main Theme 2 1.1" name="Main Theme 2 1" id="29679" speed="1" capture-alignment="Automatic" record-safe="0"/>
+    </Route>
   </Routes>
   <Playlists>
     <Playlist id="20786" name="MIDI.1" type="midi" orig-track-id="20744" shared-with-ids="" frozen="0" combine-ops="0">
@@ -1301,13 +2535,43 @@
       <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-8.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="3236710" length="2988763" position="3890856" beat="249.97941043083901" sync-position="3236710" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="207.95188964474681" length-beats="192.02181027966736" id="22856" type="midi" first-edit="nothing" source-0="22820" master-source-0="22820"/>
     </Playlist>
     <Playlist id="22981" name="Waves 3 long 1.1" type="midi" orig-track-id="22928" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-9.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="7096292" length="1993134" position="11620485" beat="746.59200680272102" sync-position="7096292" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="455.9220105820105" length-beats="128.05471655328802" id="23167" type="midi" first-edit="nothing" source-0="23130" master-source-0="23130"/>
+      <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-9.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="7096292" length="1993134" position="9710565" beat="623.88361678004537" sync-position="7096292" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="455.9220105820105" length-beats="128.05471655328802" id="23167" type="midi" first-edit="nothing" source-0="23130" master-source-0="23130"/>
     </Playlist>
     <Playlist id="23310" name="Waves 4 long 1.1" type="midi" orig-track-id="23257" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-10.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="1739418" length="985422" position="13517973" beat="868.50166666666667" sync-position="1739418" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="111.7539909297052" length-beats="63.311315192743677" id="23497" type="midi" first-edit="nothing" source-0="23465" master-source-0="23465"/>
+      <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-10.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="1739418" length="985422" position="11608053" beat="745.79327664399102" sync-position="1739418" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="111.7539909297052" length-beats="63.311315192743677" id="23497" type="midi" first-edit="nothing" source-0="23465" master-source-0="23465"/>
     </Playlist>
     <Playlist id="23630" name="Theme 1 1.1" type="midi" orig-track-id="23577" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-11.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="6225335" length="871553" position="19667842" beat="1263.6179667422525" sync-position="6225335" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="399.96483371126237" length-beats="55.995468631896983" id="23833" type="midi" first-edit="nothing" source-0="23791" master-source-0="23791"/>
+      <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-11.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="6225335" length="871553" position="13539490" beat="869.88408919123208" sync-position="6225335" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="399.96483371126237" length-beats="55.995468631896983" id="23833" type="midi" first-edit="nothing" source-0="23791" master-source-0="23791"/>
+    </Playlist>
+    <Playlist id="26452" name="Theme 2 1.1" type="midi" orig-track-id="26399" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t0-12.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="9089263" length="357330" position="10821103" beat="695.23337490551773" sync-position="9089263" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="583.96625472411188" length-beats="22.957709750566892" id="26659" type="midi" first-edit="nothing" source-0="26629" master-source-0="26629"/>
+    </Playlist>
+    <Playlist id="26776" name="Final 1 1.1" type="midi" orig-track-id="26723" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-13.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1735470" position="3487794" beat="224.083514739229" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="0" length-beats="111.50034013605455" id="26980" type="midi" first-edit="nothing" source-0="26951" master-source-0="26951"/>
+    </Playlist>
+    <Playlist id="27092" name="Harm 1 1.1" type="midi" orig-track-id="27039" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-14.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="1730289" length="874456" position="5275172" beat="338.918835978836" sync-position="1730289" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="111.16747165532888" length-beats="56.181980347694434" id="27327" type="midi" first-edit="nothing" source-0="27273" master-source-0="27273"/>
+    </Playlist>
+    <Playlist id="27450" name="Harm 3" type="midi" orig-track-id="27397" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-15.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="2603274" length="350550" position="6151552" beat="395.22442932728643" sync-position="2603274" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="167.25494331065758" length-beats="22.522108843537467" id="27683" type="midi" first-edit="nothing" source-0="27641" master-source-0="27641"/>
+    </Playlist>
+    <Playlist id="27797" name="Harm Brigde" type="midi" orig-track-id="27744" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-16.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="2959649" length="269176" position="6505018" beat="417.93388510959943" sync-position="2959649" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="190.1512962962961" length-beats="17.293998488284387" id="28056" type="midi" first-edit="nothing" source-0="27994" master-source-0="27994"/>
+    </Playlist>
+    <Playlist id="28166" name="Harm Brigde 1.1" type="midi" orig-track-id="28113" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-17.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="3232261" length="501667" position="6776305" beat="435.3635109599395" sync-position="3232261" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="207.66605064247938" length-beats="32.231061980347476" id="28407" type="midi" first-edit="nothing" source-0="28365" master-source-0="28365"/>
+    </Playlist>
+    <Playlist id="28535" name="Main Waves 1.1" type="midi" orig-track-id="28482" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-18.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="3226392" length="507556" position="6779990" beat="435.60026455026451" sync-position="3226392" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="207.28897959183678" length-beats="32.609417989417921" id="28782" type="midi" first-edit="nothing" source-0="28740" master-source-0="28740"/>
+    </Playlist>
+    <Playlist id="28910" name="PreMainRythm 1.1" type="midi" orig-track-id="28857" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-19.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="3733655" length="1990201" position="7301630" beat="469.1145502645503" sync-position="3733655" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="239.87957294028718" length-beats="127.86627739984874" id="29159" type="midi" first-edit="nothing" source-0="29121" master-source-0="29121"/>
+    </Playlist>
+    <Playlist id="29284" name="Main Theme 2" type="midi" orig-track-id="29231" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-20.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="3733669" length="1992322" position="7301636" beat="469.11493575207862" sync-position="3733669" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="239.8804724111867" length-beats="128.00254724111869" id="29543" type="midi" first-edit="nothing" source-0="29505" master-source-0="29505"/>
+    </Playlist>
+    <Playlist id="29680" name="Main Theme 2 1.1" type="midi" orig-track-id="29627" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="Inchlings of the Shining Needle ~ Little Princess_Phantasm-t1-21.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="1" right-of-split="1" hidden="0" position-locked="0" valid-transients="0" start="5725909" length="1493154" position="23593170" beat="1515.8121315192743" sync-position="5725909" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="0" start-beats="367.87775132275124" length-beats="95.932040816326435" id="29941" type="midi" first-edit="nothing" source-0="29903" master-source-0="29903"/>
     </Playlist>
   </Playlists>
   <UnusedPlaylists/>
@@ -1329,14 +2593,14 @@
     </Processor>
   </Click>
   <LTC-In>
-    <IO name="LTC In" id="20634" direction="Input" default-type="audio" user-latency="0">
+    <IO name="LTC In" id="291" direction="Input" default-type="audio" user-latency="0">
       <Port type="audio" name="LTC-in">
         <Connection other="system:capture_1"/>
       </Port>
     </IO>
   </LTC-In>
   <LTC-Out>
-    <IO name="LTC Out" id="20635" direction="Output" default-type="audio" user-latency="0">
+    <IO name="LTC Out" id="292" direction="Output" default-type="audio" user-latency="0">
       <Port type="audio" name="LTC-out"/>
     </IO>
   </LTC-Out>
@@ -1373,9 +2637,18 @@
       <Window name="locations" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="big-clock" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="audio-connection-manager" visible="0" x-off="404" y-off="171" x-size="617" y-size="503"/>
-      <Window name="midi-connection-manager" visible="0" x-off="492" y-off="210" x-size="455" y-size="425"/>
+      <Window name="midi-connection-manager" visible="0" x-off="492" y-off="210" x-size="693" y-size="425"/>
       <Window name="idle-o-meter" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-20641" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-20744" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-21142" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-21714" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-22038" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-22326" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-22624" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-22928" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-23257" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-23577" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-20641-20672" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-20641-20671" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-20641-20673" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
@@ -1384,79 +2657,6 @@
       <Window name="PM-20671-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-20673-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-20674-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-20744" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-20744-20774" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-20744-20776" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-20744-20777" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-20774-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-20776-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-20777-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-20744-21123" visible="0" x-off="0" y-off="0" x-size="725" y-size="563" custom-ui="1"/>
-      <Window name="PM-21123-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-21142" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-21142-21172" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-21142-21174" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-21142-21175" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-21172-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-21174-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-21175-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-21142-21561" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-21561-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-21714" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-21714-21742" visible="0" x-off="0" y-off="0" x-size="725" y-size="563" custom-ui="1"/>
-      <Window name="P-21714-21747" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-21714-21750" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-21714-21751" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-21742-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-21747-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-21750-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-21751-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-22038" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-22038-22066" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-22038-22071" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-22038-22074" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-22038-22075" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-22066-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-22071-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-22074-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-22075-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-22326" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-22326-22354" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-22326-22359" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-22326-22362" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-22326-22363" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-22354-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-22359-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-22362-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-22363-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-22624" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-22624-22652" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-22624-22657" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-22624-22660" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-22624-22661" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-22652-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-22657-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-22660-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-22661-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-22928" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-22928-22956" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-22928-22961" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-22928-22964" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-22928-22965" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-22956-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-22961-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-22964-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-22965-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-23257" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-23257-23285" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-23257-23290" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-23257-23293" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-23257-23294" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-23285-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-23290-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-23293-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-23294-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-23577" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-23577-23605" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-23577-23610" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-23577-23613" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
@@ -1465,6 +2665,160 @@
       <Window name="PM-23610-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-23613-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-23614-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-20744-21123" visible="0" x-off="0" y-off="0" x-size="725" y-size="563" custom-ui="1"/>
+      <Window name="P-20744-20774" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-20744-20776" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-20744-20777" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-21123-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-20774-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-20776-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-20777-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-21142-21561" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-21142-21172" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-21142-21174" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-21142-21175" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-21561-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-21172-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-21174-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-21175-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-21714-21742" visible="0" x-off="0" y-off="0" x-size="725" y-size="563" custom-ui="1"/>
+      <Window name="P-21714-21747" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-21714-21750" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-21714-21751" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-21742-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-21747-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-21750-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-21751-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-22038-22066" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-22038-22071" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-22038-22074" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-22038-22075" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-22066-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-22071-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-22074-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-22075-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-22326-22354" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-22326-22359" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-22326-22362" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-22326-22363" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-22354-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-22359-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-22362-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-22363-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-22624-22652" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-22624-22657" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-22624-22660" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-22624-22661" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-22652-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-22657-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-22660-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-22661-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-22928-22956" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-22928-22961" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-22928-22964" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-22928-22965" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-22956-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-22961-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-22964-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-22965-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-23257-23285" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-23257-23290" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-23257-23293" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-23257-23294" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-23285-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-23290-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-23293-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-23294-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-26399" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-26399-26427" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-26399-26432" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-26399-26435" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-26399-26436" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-26427-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-26432-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-26435-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-26436-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-26723" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-26723-26751" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-26723-26756" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-26723-26759" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-26723-26760" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-26751-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-26756-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-26759-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-26760-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-27039" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-27039-27067" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-27039-27072" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-27039-27075" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-27039-27076" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-27067-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-27072-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-27075-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-27076-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-27397" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-27397-27425" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-27397-27430" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-27397-27433" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-27397-27434" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-27425-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-27430-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-27433-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-27434-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-27744" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-27744-27772" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-27744-27777" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-27744-27780" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-27744-27781" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-27772-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-27777-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-27780-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-27781-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-28113" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-28113-28141" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-28113-28146" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-28113-28149" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-28113-28150" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-28141-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-28146-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-28149-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-28150-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-28482" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-28482-28510" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-28482-28515" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-28482-28518" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-28482-28519" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-28510-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-28515-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-28518-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-28519-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-28857" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-28857-28885" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-28857-28890" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-28857-28893" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-28857-28894" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-28885-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-28890-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-28893-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-28894-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-29231" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-29231-29259" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-29231-29264" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-29231-29267" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-29231-29268" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-29259-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-29264-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-29267-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-29268-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-29627" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-29627-29655" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-29627-29660" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-29627-29663" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-29627-29664" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-29655-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-29660-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-29663-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-29664-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="strip 54" visible="1" strip-width="Wide">
           <Object id="processor 84"/>
@@ -1655,7 +3009,7 @@
           <Object id="processor 20889"/>
           <Object id="processor 21123"/>
         </Object>
-        <Object id="rtav 20744" height="88" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="26" note-range-max="59"/>
+        <Object id="rtav 20744" height="37" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="26" note-range-max="59"/>
         <Object id="automation 20748" height="68" visible="0"/>
         <Object id="automation 20744 12/0/0" height="68" visible="0"/>
         <Object id="automation 20763" height="68" visible="0"/>
@@ -1669,7 +3023,7 @@
           <Object id="processor 21294"/>
           <Object id="processor 21561"/>
         </Object>
-        <Object id="rtav 21142" height="90" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="26" note-range-max="55"/>
+        <Object id="rtav 21142" height="41" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="26" note-range-max="55"/>
         <Object id="automation 21146" height="68" visible="0"/>
         <Object id="automation 21142 12/0/0" height="68" visible="0"/>
         <Object id="automation 21161" height="68" visible="0"/>
@@ -1678,7 +3032,7 @@
           <Object id="processor 21742"/>
           <Object id="processor 21747"/>
         </Object>
-        <Object id="rtav 21714" height="99" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="28" note-range-max="53"/>
+        <Object id="rtav 21714" height="32" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="28" note-range-max="53"/>
         <Object id="automation 21749" height="68" visible="0"/>
         <Object id="automation 21714 12/0/0" height="68" visible="0"/>
         <Object id="automation 21717" height="68" visible="0"/>
@@ -1687,7 +3041,7 @@
           <Object id="processor 22066"/>
           <Object id="processor 22071"/>
         </Object>
-        <Object id="rtav 22038" height="80" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="67" note-range-max="92"/>
+        <Object id="rtav 22038" height="32" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="67" note-range-max="92"/>
         <Object id="automation 22073" height="68" visible="0"/>
         <Object id="automation 22038 12/0/0" height="68" visible="0"/>
         <Object id="automation 22041" height="68" visible="0"/>
@@ -1696,7 +3050,7 @@
           <Object id="processor 22354"/>
           <Object id="processor 22359"/>
         </Object>
-        <Object id="rtav 22326" height="75" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="65" note-range-max="92"/>
+        <Object id="rtav 22326" height="37" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="65" note-range-max="92"/>
         <Object id="automation 22361" height="68" visible="0"/>
         <Object id="automation 22326 12/0/0" height="68" visible="0"/>
         <Object id="automation 22329" height="68" visible="0"/>
@@ -1705,7 +3059,7 @@
           <Object id="processor 22652"/>
           <Object id="processor 22657"/>
         </Object>
-        <Object id="rtav 22624" height="126" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="46" note-range-max="87"/>
+        <Object id="rtav 22624" height="39" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="46" note-range-max="87"/>
         <Object id="automation 22659" height="68" visible="0"/>
         <Object id="automation 22624 12/0/0" height="68" visible="0"/>
         <Object id="automation 22627" height="68" visible="0"/>
@@ -1714,7 +3068,7 @@
           <Object id="processor 22956"/>
           <Object id="processor 22961"/>
         </Object>
-        <Object id="rtav 22928" height="90" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="49" note-range-max="88"/>
+        <Object id="rtav 22928" height="32" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="49" note-range-max="88"/>
         <Object id="automation 22963" height="68" visible="0"/>
         <Object id="automation 22928 12/0/0" height="68" visible="0"/>
         <Object id="automation 22931" height="68" visible="0"/>
@@ -1723,7 +3077,7 @@
           <Object id="processor 23285"/>
           <Object id="processor 23290"/>
         </Object>
-        <Object id="rtav 23257" height="135" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="47" note-range-max="80"/>
+        <Object id="rtav 23257" height="32" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="47" note-range-max="80"/>
         <Object id="automation 23292" height="68" visible="0"/>
         <Object id="automation 23257 12/0/0" height="68" visible="0"/>
         <Object id="automation 23260" height="68" visible="0"/>
@@ -1732,11 +3086,101 @@
           <Object id="processor 23605"/>
           <Object id="processor 23610"/>
         </Object>
-        <Object id="rtav 23577" height="135" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="60" note-range-max="91"/>
+        <Object id="rtav 23577" height="47" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="60" note-range-max="91"/>
         <Object id="automation 23612" height="68" visible="0"/>
         <Object id="automation 23577 12/0/0" height="68" visible="0"/>
         <Object id="automation 23580" height="68" visible="0"/>
         <Object id="automation 23581" height="68" visible="0"/>
+        <Object id="strip 26399" visible="1" strip-width="Wide">
+          <Object id="processor 26427"/>
+          <Object id="processor 26432"/>
+        </Object>
+        <Object id="rtav 26399" height="48" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="80" note-range-max="99"/>
+        <Object id="automation 26434" height="68" visible="0"/>
+        <Object id="automation 26399 12/0/0" height="68" visible="0"/>
+        <Object id="automation 26402" height="68" visible="0"/>
+        <Object id="automation 26403" height="68" visible="0"/>
+        <Object id="strip 26723" visible="1" strip-width="Wide">
+          <Object id="processor 26751"/>
+          <Object id="processor 26756"/>
+        </Object>
+        <Object id="rtav 26723" height="46" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="55" note-range-max="85"/>
+        <Object id="automation 26758" height="68" visible="0"/>
+        <Object id="automation 26723 12/0/0" height="68" visible="0"/>
+        <Object id="automation 26726" height="68" visible="0"/>
+        <Object id="automation 26727" height="68" visible="0"/>
+        <Object id="strip 27039" visible="1" strip-width="Wide">
+          <Object id="processor 27067"/>
+          <Object id="processor 27072"/>
+        </Object>
+        <Object id="rtav 27039" height="32" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="61" note-range-max="79"/>
+        <Object id="automation 27074" height="68" visible="0"/>
+        <Object id="automation 27039 12/0/0" height="68" visible="0"/>
+        <Object id="automation 27042" height="68" visible="0"/>
+        <Object id="automation 27043" height="68" visible="0"/>
+        <Object id="strip 27397" visible="1" strip-width="Wide">
+          <Object id="processor 27425"/>
+          <Object id="processor 27430"/>
+        </Object>
+        <Object id="rtav 27397" height="41" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="55" note-range-max="75"/>
+        <Object id="automation 27432" height="68" visible="0"/>
+        <Object id="automation 27397 12/0/0" height="68" visible="0"/>
+        <Object id="automation 27400" height="68" visible="0"/>
+        <Object id="automation 27401" height="68" visible="0"/>
+        <Object id="strip 27744" visible="1" strip-width="Wide">
+          <Object id="processor 27772"/>
+          <Object id="processor 27777"/>
+        </Object>
+        <Object id="rtav 27744" height="52" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors"/>
+        <Object id="automation 27779" height="68" visible="0"/>
+        <Object id="automation 27744 12/0/0" height="68" visible="0"/>
+        <Object id="automation 27747" height="68" visible="0"/>
+        <Object id="automation 27748" height="68" visible="0"/>
+        <Object id="strip 28113" visible="1" strip-width="Wide">
+          <Object id="processor 28141"/>
+          <Object id="processor 28146"/>
+        </Object>
+        <Object id="rtav 28113" height="80" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="71" note-range-max="89"/>
+        <Object id="automation 28148" height="68" visible="0"/>
+        <Object id="automation 28113 12/0/0" height="68" visible="0"/>
+        <Object id="automation 28116" height="68" visible="0"/>
+        <Object id="automation 28117" height="68" visible="0"/>
+        <Object id="strip 28482" visible="1" strip-width="Wide">
+          <Object id="processor 28510"/>
+          <Object id="processor 28515"/>
+        </Object>
+        <Object id="rtav 28482" height="79" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="48" note-range-max="76"/>
+        <Object id="automation 28517" height="68" visible="0"/>
+        <Object id="automation 28482 12/0/0" height="68" visible="0"/>
+        <Object id="automation 28485" height="68" visible="0"/>
+        <Object id="automation 28486" height="68" visible="0"/>
+        <Object id="strip 28857" visible="1" strip-width="Wide">
+          <Object id="processor 28885"/>
+          <Object id="processor 28890"/>
+        </Object>
+        <Object id="rtav 28857" height="71" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="54" note-range-max="82"/>
+        <Object id="automation 28892" height="68" visible="0"/>
+        <Object id="automation 28857 12/0/0" height="68" visible="0"/>
+        <Object id="automation 28860" height="68" visible="0"/>
+        <Object id="automation 28861" height="68" visible="0"/>
+        <Object id="strip 29231" visible="1" strip-width="Wide">
+          <Object id="processor 29259"/>
+          <Object id="processor 29264"/>
+        </Object>
+        <Object id="rtav 29231" height="128" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="38" note-range-max="60"/>
+        <Object id="automation 29266" height="68" visible="0"/>
+        <Object id="automation 29231 12/0/0" height="68" visible="0"/>
+        <Object id="automation 29234" height="68" visible="0"/>
+        <Object id="automation 29235" height="68" visible="0"/>
+        <Object id="strip 29627" visible="1" strip-width="Wide">
+          <Object id="processor 29655"/>
+          <Object id="processor 29660"/>
+        </Object>
+        <Object id="rtav 29627" height="229" visible="1" midnam-model-name="Generic" midnam-custom-device-mode="MIDI" color-mode="MeterColors" note-range-min="61" note-range-max="89"/>
+        <Object id="automation 29662" height="68" visible="0"/>
+        <Object id="automation 29627 12/0/0" height="68" visible="0"/>
+        <Object id="automation 29630" height="68" visible="0"/>
+        <Object id="automation 29631" height="68" visible="0"/>
       </GUIObjectState>
     </UI>
     <Videomonitor active="0"/>
